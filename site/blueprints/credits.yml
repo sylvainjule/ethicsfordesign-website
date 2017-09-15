@@ -1,0 +1,42 @@
+title: Credits
+pages: false
+files: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  title:
+    label: 
+      en: Title
+      fr: Titre
+    type:  text
+  credits:
+    label: 
+      en: List of participants
+      fr: Liste des participants
+    type: structure
+    style: table
+    fields:
+      name:
+        label:
+          en: Name
+          fr: Nom
+        type: text
+      role:
+        label:
+          en: Role
+          fr: Rôle
+        type: text
+      links:
+        label:
+          en: Link(s)
+          fr: Lien(s)
+        type: text

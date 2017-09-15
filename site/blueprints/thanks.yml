@@ -1,0 +1,25 @@
+title: Thanks
+pages: false
+files: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  title:
+    label: 
+      en: Title
+      fr: Titre
+    type:  text
+  text:
+    label:
+      en: Text
+      fr: Texte
+    type: textarea

@@ -1,0 +1,223 @@
+1
+00:00:28,075 --> 00:01:12,613
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+2
+00:01:49,835 --> 00:03:51,765
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+3
+00:04:21,241 --> 00:05:48,713
+name:: Alain Findeli + description:: Universités de Montréal et de Nîmes, laboratoire Projekt, Nimes
+
+4
+00:05:58,871 --> 00:07:32,253
+name:: Laura Pandelle + description:: Designer de services à la 27e région, Paris
+
+6
+00:07:37,999 --> 00:08:25,177
+name:: Thomas Schnur + description:: Designer de produit, Cologne
+
+7
+00:08:26,957 --> 00:11:13,678
+name:: Peter Bil’ak + description:: Dessinateur de caractère et designer graphique, fondateur de Typotheque et éditeur de Works that Work, La Haye
+
+8
+00:11:13,961 --> 00:11:38,318
+name:: Nicolas Nova + description:: Professeur associé, HEAD / The Near Future Laboratory, Genève
+
+9
+00:11:42,162 --> 00:13:08,284
+name:: Geoffrey Dorne + description:: Designer et fondateur de Design&Human, Paris
+
+10
+00:13:09,093 --> 00:14:41,021
+name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
+
+11
+00:15:17,760 --> 00:15:56,117
+name:: Alain Findeli + description:: Universités de Montréal et de Nîmes, laboratoire Projekt, Nimes
+
+12
+00:15:56,765 --> 00:16:14,891
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+13
+00:16:15,539 --> 00:16:54,705
+name:: Nicolas Nova + description:: Professeur associé, HEAD / The Near Future Laboratory, Genève
+
+14
+00:16:55,191 --> 00:17:32,739
+name:: Geoffrey Dorne + description:: Designer et fondateur de Design&Human, Paris
+
+15
+00:17:33,872 --> 00:18:49,615
+name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
+
+16
+00:18:50,262 --> 00:19:15,996
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+17
+00:21:07,262 --> 00:21:39,208
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+18
+00:21:39,775 --> 00:22:32,374
+name:: Flora Fischer + description:: Chercheuse en éthique numérique, Paris
+
+19
+00:22:32,698 --> 00:24:36,995
+name:: Matthieu Cherubini + description:: Designer d’interaction, Shanghai
+
+20
+00:24:37,157 --> 00:25:44,767
+name:: Antoine Fenoglio + description:: Designer and co-fondateur des Sismo, Paris
+
+21
+00:25:44,929 --> 00:26:48,858
+name:: Peter Bil’ak + description:: Dessinateur de caractère et designer graphique, fondateur de Typotheque et éditeur de Works that Work, La Haye
+
+22
+00:26:54,644 --> 00:27:29,845
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+23
+00:27:37,573 --> 00:28:06,503
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+24
+00:28:06,908 --> 00:28:46,843
+name:: Flora Fischer + description:: Chercheuse en éthique numérique, Paris
+
+25
+00:28:54,450 --> 00:29:58,419
+name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
+
+26
+00:29:58,864 --> 00:30:26,701
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+27
+00:30:40,053 --> 00:31:25,451
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+28
+00:22:32,698 --> 00:24:36,810
+name:: Matthieu Cherubini + description:: Designer d’interaction, Shanghai
+
+29
+00:24:38,587 --> 00:25:44,634
+name:: Antoine Fenoglio + description:: Designer and co-fondateur des Sismo, Paris
+
+30
+00:25:45,334 --> 00:26:49,264
+name:: Peter Bil’ak + description:: Dessinateur de caractère et designer graphique, fondateur de Typotheque et éditeur de Works that Work, La Haye
+
+31
+00:26:54,988 --> 00:27:31,816
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+32
+00:27:37,740 --> 00:28:06,001
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+33
+00:28:06,766 --> 00:28:47,389
+name:: Flora Fischer + description:: Chercheuse en éthique numérique, Paris
+
+34
+00:28:54,978 --> 00:29:58,001
+name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
+
+35
+00:29:58,676 --> 00:30:26,904
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+36
+00:30:40,460 --> 00:31:26,544
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+37
+00:31:42,194 --> 00:33:00,850
+name:: Matthieu Cherubini + description:: Designer d’interaction, Shanghai
+
+38
+00:33:01,425 --> 00:34:02,238
+name:: Nicolas Nova + description:: Professeur associé, HEAD / The Near Future Laboratory, Genève
+
+39
+00:34:02,643 --> 00:34:55,323
+name:: Peter Bil’ak + description:: Dessinateur de caractère et designer graphique, fondateur de Typotheque et éditeur de Works that Work, La Haye
+
+40
+00:34:55,647 --> 00:35:26,155
+name:: Laura Pandelle + description:: Designer de services à la 27e région, Paris
+
+41
+00:35:39,750 --> 00:37:25,313
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+42
+00:37:33,689 --> 00:37:52,948
+name:: Peter Bil’ak + description:: Dessinateur de caractère et designer graphique, fondateur de Typotheque et éditeur de Works that Work, La Haye
+
+43
+00:37:53,191 --> 00:39:13,021
+name:: Nicolas Nova + description:: Professeur associé, HEAD / The Near Future Laboratory, Genève
+
+44
+00:39:24,107 --> 00:40:31,597
+name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
+
+45
+00:40:31,880 --> 00:41:05,099
+name:: Antoine Fenoglio + description:: Designer and co-fondateur des Sismo, Paris
+
+46
+00:41:05,422 --> 00:41:38,601
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+47
+00:41:38,924 --> 00:43:23,233
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+48
+00:43:47,227 --> 00:44:08,307
+name:: Thomas Schnur + description:: Designer de produit, Cologne
+
+49
+00:44:08,671 --> 00:44:35,173
+name:: Alain Findeli + description:: Universités de Montréal et de Nîmes, laboratoire Projekt, Nimes
+
+50
+00:44:36,144 --> 00:45:16,241
+name:: Peter Bil’ak + description:: Dessinateur de caractère et designer graphique, fondateur de Typotheque et éditeur de Works that Work, La Haye
+
+51
+00:45:16,687 --> 00:46:24,823
+name:: Antoine Fenoglio + description:: Designer and co-fondateur des Sismo, Paris
+
+52
+00:46:25,228 --> 00:47:00,065
+name:: Laura Pandelle + description:: Designer de services à la 27e région, Paris
+
+53
+00:47:00,996 --> 00:47:26,001
+name:: Matthieu Cherubini + description:: Designer d’interaction, Shanghai
+
+54
+00:47:26,324 --> 00:48:01,809
+name:: James Auger + description:: Designer et professeur associé au M-ITI, Madère
+
+55
+00:48:02,456 --> 00:48:57,322
+name:: Sarah Gold + description:: Directrice et fondatrice d’IF, Londres
+
+56
+00:48:58,940 --> 00:49:43,164
+name:: James Williams + description:: Doctorant sur l’éthique de l’attention à l’université d’Oxford, co-fondateur de Time Well Spent, Oxford
+
+57
+00:49:44,135 --> 00:50:02,667
+name:: Thomas Schnur + description:: Designer de produit, Cologne

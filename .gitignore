@@ -1,0 +1,71 @@
+# Kirby files
+# ------------------------
+
+# Temp files
+/thumbs/*
+!/thumbs/index.html
+
+/site/cache/*
+!/site/cache/index.html
+
+# Accounts
+/site/accounts/*
+!/site/accounts/index.html
+
+# Avatars
+/assets/avatars/*
+!/assets/avatars/index.html
+
+# Config
+/site/config/config.php
+
+
+# Fonts
+# ------------------------
+
+**/*.eot
+**/*.woff
+**/*.woff2
+
+
+# Node
+# ------------------------
+
+node_modules
+/package.json
+
+
+# Videos
+# ------------------------
+
+**/*.wmv
+**/*.mpg
+**/*.mpeg
+**/*.mp4
+**/*.mov
+**/*.flv
+**/*.avi
+**/*.ogv
+**/*.ogg
+**/*.webm
+
+
+# Logs
+# ------------------------
+
+*.log
+*.sql
+*.sqlite
+
+
+# OS Files
+# ------------------------
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+

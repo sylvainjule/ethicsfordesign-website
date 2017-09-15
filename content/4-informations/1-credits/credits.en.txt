@@ -1,0 +1,54 @@
+Autoid: credits
+
+----
+
+Title: Credits
+
+----
+
+Text: 
+
+----
+
+Credits: 
+
+- 
+  name: Sylvain Julé
+  role: Technical direction and web development
+  links: http://sylvain-jule.fr
+- 
+  name: Clément Le Tulle-Neyret
+  role: Art direction and graphic design
+  links: http://clement-ltn.com
+- 
+  name: Gauthier Roussilhe
+  role: Direction, production and motion design
+  links: http://gauthierroussilhe.com
+- 
+  name: Miroslav Pilon
+  role: Sound post-production and mix
+  links: http://www.miroslav-pilon.com
+- 
+  name: Victoria Stephens
+  role: Voiceover
+  links: ""
+- 
+  name: Elise Leclerc
+  role: Translation
+  links: ""
+- 
+  name: Sébastien Robert
+  role: music curation
+  links: http://www.sebastienrobert.nl
+- 
+  name: Typeface
+  role: '*Neue Haas Grotesk* (Christian Schwartz & Jack Curry, Commercial Type, 2010 & 2016)'
+  links: ""
+- 
+  name: Music
+  role: "S.A.M., *Baby I'm Sorry*, *Alone In A Crowd*, *Two Hearts In Doubt*, Dream State Of A Bellmaker, 2017; DJ Sports, *Phases Of Winds*, *The Secret Jog Life*, Phases Of Winds, 2016; Trux, *Aziol*, Trux, 2016"
+  links: ""
+
+----
+
+Translations: 1

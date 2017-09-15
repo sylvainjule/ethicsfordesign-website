@@ -1,0 +1,8 @@
+{
+  "name": "translations",
+  "description": "Translation field for Kirby CMS",
+  "author": "Flo Kosiol <git@flokosiol.de>",
+  "version": "0.4",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

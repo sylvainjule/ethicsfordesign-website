@@ -1,0 +1,11 @@
+title: Login
+----
+message: Identifiez-vous pour accéder au site
+----
+alert: Identifiants incorrects. Réessayez.
+----
+username: Nom d'utilisateur
+----
+password: Mot de passe
+----
+button: Connexion

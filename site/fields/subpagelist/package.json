@@ -1,0 +1,8 @@
+{
+  "name": "subpagelist",
+  "description": "Display and filter a list of subpages in the main column of the Kirby panel",
+  "author": "Flo Kosiol <info@flokosiol.de>",
+  "license": "MIT",
+  "version": "2.0.4",
+  "type": "kirby-field"
+}

@@ -1,0 +1,13 @@
+Autoid: infos
+
+----
+
+Title: Informations
+
+----
+
+Subpagelist: 
+
+----
+
+Translations: 0

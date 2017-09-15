@@ -1,0 +1,33 @@
+Autoid: 2
+
+----
+
+Title: Étape 1 (Valider la durée)
+
+----
+
+Text: Ce documentaire interactif dure 50 minutes, souhaitez-vous utiliser de votre temps pour regarder *Ethics for Design* ?
+
+----
+
+Translations: 1
+
+----
+
+Warning: Si votre connexion est instable, ou si vous ne souhaitez pas utiliser vos données mobiles, vous pouvez visionner (ou télécharger) la version non-interactive du documentaire (link: https://vimeo.com/232973887 text: ici).
+
+----
+
+Step1yes: Oui
+
+----
+
+Step1no: Non
+
+----
+
+Stepyes: Oui
+
+----
+
+Stepno: Non

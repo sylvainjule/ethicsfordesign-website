@@ -1,0 +1,29 @@
+Autoid: legal-mentions
+
+----
+
+Translations: 0
+
+----
+
+Title: Mentions légales
+
+----
+
+Text: 
+
+Responsable éditorial : Gauthier Roussilhe
+62 Wood's Rd, SE15 2SW London
+Email : (email: contact@ethicsfordesign.com)
+Site Web : (link: http://ethicsfordesign.com)
+
+Hébergement : Linode
+Adresse : 329 E. Jimmie Leeds Rd, Ste. A Galloway, NJ 08205
+Site Web : (link: http://linode.com)
+
+Développement : Sylvain Julé
+Site Web : (link: http://sylvain-jule.fr)
+
+----
+
+Url-key: mentions-legales

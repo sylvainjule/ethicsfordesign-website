@@ -1,0 +1,11 @@
+title: Login
+----
+message: Please login to access the website
+----
+alert: Authentication failed. Please try again.
+----
+username: Username
+----
+password: Password
+----
+button: Login

@@ -1,0 +1,25 @@
+Autoid: 3
+
+----
+
+Title: Étape 2 (Choix de langue)
+
+----
+
+Text: Which language/Quelle langue  ?
+
+----
+
+Translations: 1
+
+----
+
+Warning: 
+
+----
+
+Stepyes: 
+
+----
+
+Stepno: 

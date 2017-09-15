@@ -1,0 +1,129 @@
+Autoid: participants
+
+----
+
+Title: Interviewees
+
+----
+
+Text: 
+
+----
+
+Participants: 
+
+- 
+  name: Alain Findeli
+  links: >
+    http://projekt.unimes.fr/membres/alain-findeli,
+    http://www.montreal2015.les-ard.org/speaker/alain-findeli
+  bio: 'Engineer by training, Alain Findeli has turned his attention to design by questioning the human and social aspects of engineering. He has produced a substantial piece of research on the teaching of design (*The Bauhaus of Chicago: the educational work of László Moholy-Nagy*). He has been part of the Ethics Research Center of Montreal University and lastly co-founded the MA Design-Innovation-Society at Nimes University. Alain also co-founded the social innovation by design research team PROJEKT.'
+- 
+  name: James Auger
+  links: >
+    http://www.auger-loizeau.com,
+    http://crapfutures.tumblr.com
+  bio: 'James Auger was among the first designers to question the role of the designer and the impact of design products (Tooth implant, J.Loizeau and J.Auger). He was then professor at the Royal College of Art in the famous ​Interactions Design section alongside Fiona Raby and Anthony Dunne. Since 2015, James has devoted himself to his research projects at the Madeira Institute of Technology and writes regularly with Julian Hanna on modern design issues (*Crap Futures*).'
+- 
+  name: "Peter Bil'ak"
+  bio: 'Famous type designer to whom we owe the *Fedra* or *FF Eureka* Peter Bil’ak Typotheque, Peter has directed his graphic design studio and foundry for 18 years. He was co-editor of the magazine ​*Dot dot dot* and created ​*Works That Work*. After a trip to India in 2005, he decided to partner with Satya Rajpurohit, an Indian designer, to create ​Indian Type Foundry in 2009. He also recently participated in the creation of the font rental software ​FontStand.'
+  links: >
+    https://www.typotheque.com,
+    https://worksthatwork.com
+- 
+  name: Antoine Fenoglio
+  bio: >
+    For the last 20 years Antoine Fenoglio
+    has been running the design studio Sismo
+    with his partner, Frédéric Lecourt.
+    The studio’s work, always elusive, can
+    pan from industrial design projects to
+    exhibition commissions. Antoine has
+    designed more than twenty products of
+    daily life and has spent a long time
+    working to make design comprehensible
+    for the general public. He was made
+    Knight of Arts and Letters in 2013.
+  links: http://sismodesign.com
+- 
+  name: Flora Fischer
+  bio: 'Flora Fischer is PhD candidate in philosophy at the University of Technology of Compiègne and in charge of research program at the Cigref (Club Informatique des Grandes Entreprises Françaises). Flora works on an ethical approach to the design of digital services and products, an ​*ethics by design*, especially in large companies. Her work also addresses the research field of ​machine ethics and the deontology of the designer.'
+  links: http://www.cigref.fr
+- 
+  name: Sarah Gold
+  bio: >
+    Sarah Gold created IF to address the
+    issues of transparency, security,
+    privacy and open source in digital
+    services design, especially in the
+    public domain. She is a member of the
+    Expert Council of the Cyber Security
+    Research Institute. Sarah was also
+    listed on Forbes’ 30 under 30 ​and
+    as a Nesta New Radical.
+  links: https://projectsbyif.com
+- 
+  name: James Williams
+  bio: 'James Williams is the co-founder of the *Time Well Spent* movement with Tristan Harris. He is also a doctoral student at the University of Oxford (Oxford Internet Institute) where he wrote his thesis on the ethics of attention. Before that James worked at Google for over ten years and received the ​Founder’s Award, the highest award within the company.'
+  links: >
+    https://www.oii.ox.ac.uk/people/james-williams,
+    http://www.timewellspent.io
+- 
+  name: Geoffrey Dorne
+  bio: 'After being an independent designer and researcher at EnsadLab, Geoffrey Dorne created his own ethical design agency Design & Human, which works mainly with NGOs, companies and associations. Geoffrey pays particular attention to user-centered methods and respectful approaches to human well-being.'
+  links: http://designandhuman.com
+- 
+  name: Thomas Schnur
+  bio: >
+    Trained as a cabinetmaker and later as a
+    product designer, Thomas Schnur went
+    through Mathieu Lehanneur’s studio in
+    Paris and studied at the Saint-Étienne
+    School of Design. He has been nominated
+    several times for the German Design
+    Award and Designpreis der Bundesrepublik
+    Deutschland. Through his research Thomas
+    has explored the design of common
+    objects and their dissemination in
+    different types of cultures and
+    societies.
+  links: http://www.thomasschnur.com
+- 
+  name: Matthieu Cherubini
+  bio: 'After studying nursing and computer engineering, Matthieu studied interaction design at the Royal College of Art. He started a PhD on ethics algorithms by asking the question: *Can Ethics be computable?* His speculative design work on healthcare or autonomous vehicles is known internationally. He now works in Shanghai as a design technologist.'
+  links: http://mchrbn.net
+- 
+  name: Laura Pandelle
+  bio: >
+    Trained at the Ensci in product design,
+    Laura now works on public policy
+    innovation in the association ​La 27e
+    Région. As a designer she coordinates
+    the field experiments and develops the
+    methods of the association. Laura
+    specializes in the fields of innovation
+    through service and social innovation.
+  links: http://www.la27eregion.fr
+- 
+  name: Nicolas Nova
+  bio: >
+    Nicolas Nova is an associate professor
+    at the school of Art and Design (Head)
+    in Geneva and is also part of the
+    research agency the Near Future
+    Laboratory. His research interests are
+    in the fields of ethnography,
+    interaction design and futures research.
+    Nicolas documents and studies digital
+    and new media practices.
+  links: >
+    http://nearfuturelaboratory.com,
+    http://www.nicolasnova.net
+
+----
+
+Heroimage: participants.jpg
+
+----
+
+Translations: 1

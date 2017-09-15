@@ -1,0 +1,58 @@
+Autoid: budget
+
+----
+
+Title: Budget
+
+----
+
+Text: 
+
+Ce documentaire a été entièrement produit avec 5402€ pendant 6 mois. Vous pouvez trouver tout le budget détaillé (link: https://docs.google.com/spreadsheets/d/1QlHlYNp9mQao9Xea-Oc9fvFSi3JOBWsPtufKrSqhPxI/edit?usp=sharing text: ici) à titre indicatif mais il n’est en aucun cas représentatif des rémunérations réelles pour le travail fourni par les trois personnes de l’équipe qui ont choisi de n’être peu ou pas payées pour permettre au documentaire de voir le jour. 
+Nous espérons que l’accès au budget du documentaire pourra aider ceux qui veulent se lancer à leur tour à mieux comprendre comment budgétiser ce genre de projet. 
+De plus, dans une logique de transparence, il paraît important que tous les chiffres soient accessibles avant de mieux comprendre les conditions dans lesquelles ce documentaire a été produit.
+
+----
+
+Translations: 0
+
+----
+
+Entreesbudget: 
+
+- 
+  name: Transport
+  value: "1848"
+  amount: "1848"
+- 
+  name: Material
+  value: "1054"
+  amount: "1054"
+- 
+  name: Accomodations
+  value: "162"
+  amount: "162"
+- 
+  name: Daily expenses
+  value: "275"
+  amount: "275"
+- 
+  name: Withdrawals
+  value: "385"
+  amount: "385"
+- 
+  name: Web services
+  value: "259"
+  amount: "259"
+- 
+  name: Design
+  value: "156"
+  amount: "156"
+- 
+  name: Sound post-production
+  value: "1260"
+  amount: "1260"
+
+----
+
+Heroimage: 

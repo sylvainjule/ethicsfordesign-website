@@ -1,0 +1,37 @@
+.tab-nav {
+  width: 100%;
+  margin-bottom: 20px;
+  padding-left: 1.5em;
+  list-style: none;
+  border-bottom: 4px solid #dddddd;
+}
+
+.tab-nav li {
+  display: inline-block;
+  padding: 8px;
+  margin-right: 5px;
+  margin-bottom: -4px;
+  background: none;
+  display: inline-block;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 10px 15px;
+}
+
+.tab-nav li.active {
+  border-bottom: 4px solid #8dae28;
+  background: #efefef;
+}
+
+.tab-container {
+  /* display: none; causes the Kirby textarea to be unable to determine the correct */
+  /* height to set itself too. It usually ends up too big. Instead, we move the div */
+  /* off-screen so that the textarea can properly determine it's height */
+  position: absolute;
+  left: -99999px;
+}
+
+.tab-container.active {
+  position: relative;
+  left: auto;
+}

@@ -1,0 +1,58 @@
+Autoid: further
+
+----
+
+Title: Aller plus loin
+
+----
+
+Text: 
+
+----
+
+Introduction: Voici quelques liens, recommandations et documents pour poursuivre votre réflexion personnelle sur l’éthique :
+
+----
+
+Links: 
+
+- 
+  description: '*Code de déontologie du designer professionnel* par l’Alliance Française des Designers'
+  link: >
+    http://www.alliance-francaise-des-designers.org/afd-code-de-deontologie-du-designer-professionnel.html
+  langcode: fr
+- 
+  description: '*Time Well Spent* initiative'
+  link: http://www.timewellspent.io/
+  langcode: en
+- 
+  description: '*Design for the real world* par Victor Papanek'
+  link: >
+    https://monoskop.org/images/c/c2/Papanek_Victor_Design_for_the_Real_World_2nd_ed.pdf
+  langcode: en
+- 
+  description: '*Ethical Design Manifesto* by Indie Team'
+  link: https://ind.ie/ethical-design/
+  langcode: fr
+- 
+  description: '*Data Permission Catalogue* by IF'
+  link: https://catalogue.projectsbyif.com/
+  langcode: en
+- 
+  description: '*A Designer’s Code of Ethics* by Mike Monteiro'
+  langcode: en
+  link: >
+    https://deardesignstudent.com/a-designers-code-of-ethics-f4a88aca9e95
+- 
+  description: 'Medium d’*Ethics for Design*'
+  link: >
+    https://medium.com/@Gauthier.Roussilhe/pour-lautonomie-du-design-b0c29cf2c5b2
+  langcode: fr
+
+----
+
+Translations: 1
+
+----
+
+Url-key: aller-plus-loin

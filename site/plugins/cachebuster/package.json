@@ -1,0 +1,8 @@
+{
+  "name": "cachebuster",
+  "description": "Kirby Cachebuster Plugin",
+  "author": "Bastian Allgeier <bastian@getkirby.com>",
+  "version": "2.1.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

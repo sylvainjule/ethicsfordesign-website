@@ -1,0 +1,25 @@
+Autoid: legal-mentions
+
+----
+
+Translations: 0
+
+----
+
+Title: Legal mentions
+
+----
+
+Text: 
+
+Editorial manager: Gauthier Roussilhe
+Address: 62 Wood's Rd, SE15 2SW London
+Email: (email: contact@ethicsfordesign.com)
+Website: (link: http://ethicsfordesign.com)
+
+Hosting: Linode
+Address: 329 E. Jimmie Leeds Rd, Ste. A Galloway, NJ 08205
+Website: (link: http://linode.com)
+
+Web development: Sylvain Julé
+Website: (link: http://sylvain-jule.fr)

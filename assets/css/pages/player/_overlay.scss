@@ -1,0 +1,44 @@
+#overlay-instructions {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background: $white;
+	padding: 30px;
+	padding-top: 24px;
+	z-index: 10;
+	user-select: none;
+	@include respond-to('verysmall') {
+		display: none;
+	}
+
+	.player-step {
+		position: absolute;
+		width: calc(100% - 100px);
+		padding-bottom: 50px;
+		max-width: $textMaxWidth;
+		z-index: 100;
+	}
+	#player-open button {
+		display: block;
+		margin-top: 1.375rem;
+		&.no-action {
+			pointer-events: none;
+		}
+	}
+	img {
+		display: inline-block;
+		width: 70px;
+		vertical-align: text-top;
+		margin: 12px 5px 0 5px;
+	}
+	&.out {
+		transition: width 0.4s cubic-bezier(0.77, 0, 0.175, 1) 0.25s, height 0.4s cubic-bezier(0.77, 0, 0.175, 1);
+		.player-step {
+			opacity: 0;
+		}
+	}
+}

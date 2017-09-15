@@ -1,0 +1,67 @@
+Autoid: videocredits
+
+----
+
+Title: Video credits
+
+----
+
+Text: 
+
+----
+
+Credits: 
+
+- 
+  description: '*Audio Tooth Implant on Sky News*, Auger and Loizeau at the Science Museum in London'
+  links: https://vimeo.com/7141013
+- 
+  description: '*Madeira Cliff Lift*, alessevera'
+  links: >
+    https://www.youtube.com/watch?v=_noPLFUw1uc
+- 
+  description: "*Résidence / L'accès aux administrations de proximité*, SGMAP, La 27e Région and Marguerite Fouletier (Les Beaux Yeux agency)"
+  links: 'https://www.youtube.com/watch?v=5G8v627CPJw&t=103s'
+- 
+  description: '*Limits to Growth*, United Nations Television and New York State Education Department'
+  links: >
+    https://archive.org/details/Limitstogrowthreel1
+- 
+  description: '*Works that Work magazine/process*, Lukas Timulak and Typotheque'
+  links: https://vimeo.com/52840586
+- 
+  description: '*Social Distribution (Works That Work magazine)*, Thibault de Fournas and Christopher Van Wilson'
+  links: https://vimeo.com/59732766
+- 
+  description: '*Refugeye*, Links not Bombs'
+  links: >
+    https://www.youtube.com/watch?v=diiUMHOnEbs
+- 
+  description: '*Ethical Autonomous Vehicles*, Matthieu Cherubini'
+  links: https://vimeo.com/194454704
+- 
+  description: '*Tesla Model S P85D Autopilot Demonstration*, HighTechJoe'
+  links: >
+    https://www.youtube.com/watch?v=DbPqIHwSHos
+- 
+  description: '*Passengers*, Casino, 1982'
+  links: >
+    https://archive.org/details/Passengers_Casino
+- 
+  description: '*Group of business people using laptop and tablet computer during a meeting*, Shutterstock Free Sample'
+  links: ""
+- 
+  description: '*The Talkative Cat*, Matthew Paul Argall'
+  links: >
+    https://archive.org/details/TheTalkativeCat
+- 
+  description: '*Modern Times*, Charlie Chaplin, 1936'
+  links: >
+    https://archive.org/details/ModernTimes193
+- 
+  description: '*Alexa CIA*, Alexa CIA'
+  links: https://archive.org/details/AlexaCIA
+
+----
+
+Translations: 1

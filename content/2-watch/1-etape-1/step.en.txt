@@ -1,0 +1,33 @@
+Autoid: 2
+
+----
+
+Title: Étape 1 (Valider la durée)
+
+----
+
+Text: This interactive documentary lasts 50 minutes, do you want to use your time to watch *Ethics for Design*?
+
+----
+
+Translations: 1
+
+----
+
+Warning: If your network is unstable, or if you want to spare your mobile data, you can watch (or download) the non-interactive version (link: https://vimeo.com/232973887 text: here).
+
+----
+
+Step1yes: Yes
+
+----
+
+Step1no: No
+
+----
+
+Stepyes: Yes
+
+----
+
+Stepno: No

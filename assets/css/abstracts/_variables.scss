@@ -1,0 +1,35 @@
+$white: #f0f0f0;
+$light-grey: lighten(#3c3c3c, 25%);
+$mid-grey: #3c3c3c;
+$black: #0f0f0f;
+
+$mainColor: #eb0000;
+$midColor: #eb4646;
+$lightColor: #fdb5b5;
+
+$textMaxWidth: 1100px;
+$textMaxWidth: 1320px;
+
+
+@keyframes blink {
+    5% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    95% {
+        opacity: 0;
+    }
+}
+@-webkit-keyframes blink {
+    5% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+    }
+    95% {
+        opacity: 1;
+    }
+}

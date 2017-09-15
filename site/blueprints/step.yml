@@ -1,0 +1,37 @@
+title: Step
+pages: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  text:
+    label: 
+      en: Introductory text
+      fr: Texte introductif
+    type: textarea
+  info:
+    label: Avertissement
+    type: info
+    text: Les champs ci-dessous ne sont à remplir que pour la première étape.
+  stepyes:
+    label: 
+      en: 'Yes'
+      fr: Oui
+    type: text
+    width: 1/2
+  stepno:
+    label: 
+      en: 'No'
+      fr: Non
+    type: text
+    width: 1/2
+  warning:
+    type: textarea

@@ -1,0 +1,18 @@
+.player-mobile {
+	padding: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow-y: auto;
+	overflow-x: hidden;
+	background: $white;
+	padding: 50px;
+	z-index: 10;
+	user-select: none;
+	display: none;
+	@include respond-to('verysmall') {
+		display: block;
+	}
+}

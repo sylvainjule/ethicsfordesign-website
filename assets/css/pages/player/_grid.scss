@@ -1,0 +1,83 @@
+.player-grid * {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	@include respond-to('verysmall') {
+		display: none;
+	}   
+}
+.player-grid, 
+.player-grid-entry {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+#player-grid {
+    &-1 {
+        width: 50%;
+        right: 50%;
+        bottom: 50%;
+        overflow: hidden;
+    }
+    &-2 {
+        width: 50%;
+        left: 50%;
+        bottom: 50%;
+        overflow: hidden;
+    }
+    &-3 {
+        width: 50%;
+        top: 50%;
+        right: 50%;
+        overflow: hidden;
+    }
+    &-4 {
+        width: 25%;
+        top: 50%;
+        left: 50%;
+        overflow: hidden;
+    }
+    &-5 {
+        width: 25%;
+        top: 50%;
+        left: 75%;
+        overflow: hidden;
+    }
+
+    &-handler {
+        z-index: 11;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 25px;
+        height: 25px;
+        background: white;
+        border-radius: 50%;
+        transition: width 0.15s ease-out, height 0.15s ease-out;
+        &.hovered {
+            width: 35px;
+            height: 35px;
+            background: $mainColor;
+        }
+        &.hidden {
+        	width: 0;
+        	height: 0;
+        }
+
+        cursor: move; /* fallback if grab cursor is unsupported */
+        cursor: grab;
+        cursor: -moz-grab;
+        cursor: -webkit-grab;
+        &:active { 
+            cursor: grabbing;
+            cursor: -moz-grabbing;
+            cursor: -webkit-grabbing;
+            transition: none;
+        }
+    }
+}

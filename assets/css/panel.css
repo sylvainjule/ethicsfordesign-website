@@ -1,0 +1,6 @@
+.structure-table th:first-child {
+    width: auto;
+}
+.structure-table td:first-child {
+    width: auto;
+}

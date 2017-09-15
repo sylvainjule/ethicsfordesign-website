@@ -1,0 +1,21 @@
+Autoid: thanks
+
+----
+
+Title: Remerciements
+
+----
+
+Text: 
+
+Nous tenons à remercier tous les participants de ce documentaire qui nous ont accordé le temps d’une interview et parfois même le temps d’un repas : Béatrice Gisclard, Alain Findeli, James Auger, Peter Bil’ak, Daniel Schwarz, Antoine Fenoglio, Flora Fischer, Sarah Gold, James William, Geoffrey Dorne, Thomas Schnur, Mathieu Cherubini, Laura Pandelle, Julien Defait et Nicolas Nova.
+
+Merci aussi à tout ceux qui nous ont accueilli pendant le tournage et qui nous ont conseillé : Giulia Orgeas, Julian Hanna, Enrique Encinas, Danielle Boelling, Sébastien Robert, Marianne Clavel, Thomas Skowronski, Lucile Vidaud, Gandalf de Meaupou D’Ableiges de Monbail, Marine Schepens, Alexis Ozouf, Ronja Müller, Roman Maria, Bernard Magri, Victoria Stephens, Flore Leclerc, Nicole Felipe, Yann Alary, Clément Renaud, Loïc Marszalek et Laurent Bigarella.
+
+----
+
+Translations: 1
+
+----
+
+Url-key: remerciements

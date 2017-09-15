@@ -1,0 +1,32 @@
+title: Home
+pages: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  translations:
+    type: translations
+  title:
+    label: Title
+    type:  text
+  maintext:
+    label: Texte d'introduction
+    type: textarea
+  question:
+    label: Question
+    type: text
+  switchlang:
+    label: Changement de langue
+    type: text
+    width: 1/2
+  loading:
+    label: Message de chargement
+    type: text
+    width: 1/2
+  mobiletext:
+    label: Texte destiné aux mobiles
+    type: textarea

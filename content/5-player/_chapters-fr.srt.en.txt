@@ -1,0 +1,5 @@
+Langname: Français
+
+----
+
+Langcode: fr

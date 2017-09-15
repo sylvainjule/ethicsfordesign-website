@@ -1,0 +1,21 @@
+Title: Ethics for Design
+
+----
+
+Author: Sylvain Julé
+
+----
+
+Description: What is the role of a designer?
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+
+----
+
+Login: false
+
+----
+
+Translations: 0

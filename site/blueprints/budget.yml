@@ -1,0 +1,35 @@
+title: Budget
+pages: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  title:
+    label: 
+      en: Title
+      fr: Titre
+    type:  text
+  text:
+    label:
+      en: Text
+      fr: Texte
+    type: textarea
+  entreesbudget:
+    label: Élements du budget
+    type: structure
+    style: table
+    fields:
+      name:
+        label: Intitulé
+        type: text
+      amount: 
+        label: Montant
+        type: number

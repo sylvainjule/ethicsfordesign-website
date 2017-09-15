@@ -1,0 +1,13 @@
+.subpagelist-button {
+  margin-left: 10px;   
+}
+
+.subpagelist .shiv-white,
+.subpagelist .shiv-white:after {
+  background: none !important;
+}
+
+.subpagelist-item-empty {
+  padding: 1em;
+  background: #ddd;
+}

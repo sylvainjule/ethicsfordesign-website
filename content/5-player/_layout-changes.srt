@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:04:21,219
+subtitles + video + images-left + images-right + side-text
+
+2
+00:04:21,220 --> 00:07:37,832
+subtitles + video + images-right + side-text + images-left
+
+3
+00:07:37,833 --> 00:11:13,714
+subtitles + video + images-left + side-text + images-right
+
+4
+00:11:13,715 --> 00:15:06,947
+subtitles + video + images-right + side-text + images-left
+
+5
+00:15:06,948 --> 00:21:07,933
+subtitles + video + images-left + images-right + side-text
+
+6
+00:21:07,934 --> 00:27:37,280
+subtitles + video + images-left + side-text + images-right
+
+7
+00:27:37,281 --> 00:31:31,931
+subtitles + video + images-right + side-text + images-left
+
+8
+00:31:31,932 --> 00:37:33,584
+subtitles + video + images-left + images-right + side-text
+
+9
+00:37:33,585 --> 00:43:47,042
+subtitles + video + images-right + side-text + images-left
+
+10
+00:43:47,043 --> 00:50:33,067
+subtitles + video + images-left + images-right + side-text

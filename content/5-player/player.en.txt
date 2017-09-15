@@ -1,0 +1,37 @@
+Autoid: player
+
+----
+
+Title: Player
+
+----
+
+Author: 
+
+----
+
+Description: 
+
+----
+
+Copyright: 
+
+----
+
+Video: EthicsForDesign-v2_4.mp4
+
+----
+
+Mainvideo: ethics-for-design-mainvid.mp4
+
+----
+
+Translations: 1
+
+----
+
+Quicktip: During the documentary you can choose the size and therefore the importance that you give to each medium. To do this, click on the center point and drag it to resize the documentary as you wish ((gif: get-started.gif)).
+
+----
+
+Mobile: * Ethics for Design * is only interactive on computer or tablet (horizontal). You can nevertheless see the documentary without interactivity via this link: (link: http://vimeo.com/1541zfe16e text: vimeo.com/1541zfe16e) .

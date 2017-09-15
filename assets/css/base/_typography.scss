@@ -1,0 +1,102 @@
+@font-face {
+	font-family: 'Neue Haas Grotesk';
+	src: url('../fonts/NeueHaasGrotTextRound-55Roman-Web.eot');
+	src: url('../fonts/NeueHaasGrotTextRound-55Roman-Web.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/NeueHaasGrotTextRound-55Roman-Web.woff2') format('woff2'),
+	     url('../fonts/NeueHaasGrotTextRound-55Roman-Web.woff') format('woff');
+	font-weight:  400;
+	font-style:   normal;
+	font-stretch: normal;
+}
+@font-face {
+	font-family: 'Neue Haas Grotesk';
+	src: url('../fonts/NeueHaasGrotTextRound-56Italic-Web.eot');
+	src: url('../fonts/NeueHaasGrotTextRound-56Italic-Web.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/NeueHaasGrotTextRound-56Italic-Web.woff2') format('woff2'),
+	     url('../fonts/NeueHaasGrotTextRound-56Italic-Web.woff') format('woff');
+	font-weight:  400;
+	font-style:   italic;
+	font-stretch: normal;
+}
+
+html {
+	font-size: 16px;
+	@include respond-to('verysmall') {
+		font-size: 12px;
+	}
+}
+
+body {
+	font-family: 'Neue Haas Grotesk', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	overflow-y: hidden;
+
+	-moz-font-feature-settings: "liga", "kern";
+	-moz-font-feature-settings:"liga=1, kern=1";
+	-ms-font-feature-settings:"liga", "kern";
+	-o-font-feature-settings:"liga", "kern";
+	-webkit-font-feature-settings:"liga", "kern";
+	font-feature-settings: "liga", "kern";
+}
+
+h1 {
+	font-size: 100vh;
+	line-height: 100vh;
+}
+h2 {
+	font-size: 3.375rem;
+	line-height: 1.1;
+}
+p {
+	font-size: 3.375rem;
+	line-height: 1.1;
+	&:not(:first-child) {
+		margin-top: 1.35rem;
+	}
+}
+li {
+	font-size: 3.375rem;
+	line-height: 1.1;
+	&:not(.page-tabslist-tab-legalmentions) {
+		p {
+			br {
+				content: '';
+				white-space: pre;
+				&:after {
+					content: '\A\00a0\00a0\00a0\00a0\00a0';
+				}
+			}
+		}
+	}
+}
+a {
+	&:hover {
+		color: $midColor;
+	}
+}
+i, em {
+	font-style: italic;
+}
+.page-tabslist-tab-content {
+	font-size: 1.875rem;
+	line-height: 2.375rem;
+	* {
+		font-size: 1.875rem;
+		line-height: 2.375rem;
+	}
+}
+form {
+	overflow: visible;
+	line-height: 1.1;
+}
+button {
+	font-size: 3.375rem;
+	box-sizing: content-box;
+	line-height: 1.1;
+	padding-bottom: 0.25rem;
+	margin-top: -4px;
+	&:hover {
+		color: $midColor;
+	}
+}

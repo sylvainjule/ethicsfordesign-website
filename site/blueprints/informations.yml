@@ -1,0 +1,28 @@
+title: Informations
+pages:
+  max: 6
+  hide: true
+files: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  title:
+    label: 
+      en: Title
+      fr: Titre
+    type:  text
+    readonly: true
+  subpagelist:
+    label:
+      en: Submenus
+      fr: Sous-menus
+    type: subpagelist

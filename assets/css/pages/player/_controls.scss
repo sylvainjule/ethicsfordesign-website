@@ -1,0 +1,313 @@
+.player-controls {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    transition: all 0.3s cubic-bezier(0.215, 0.61, 0.355, 1);
+    -webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	@include respond-to('verysmall') {
+		display: none;
+	}
+    &.inactive {
+        transform: translateY(50px);
+        .player-controls-top {
+            height: 8px;
+        }
+        .final-timer, .current-timer, .chapter {
+        	opacity: 0;
+        }
+    }
+
+    .tooltip-chapter {
+    	position: fixed;
+    	padding: 7px 10px;
+    	background: $white;
+    	z-index: 1000;
+    	bottom: 75px;
+    	left: 35%;
+    	border-radius: 4px;
+    	&:after {
+			top: 100%;
+			left: 50%;
+			border: solid transparent;
+			content: " ";
+			height: 0;
+			width: 0;
+			position: absolute;
+			pointer-events: none;
+			border-color: rgba(255, 255, 255, 0);
+			border-top-color: $white;
+			border-width: 8px;
+			margin-left: -8px;
+		}
+		&.visually-hidden {
+			@include visually-hidden;
+		}
+    }
+
+    &.out {
+        transform: translateY(100%);
+    }
+    &-top {
+        width: 100%;
+        height: 10px;
+        .player-progress-bar {
+            position: relative;
+            width: 100%;
+            height: 100%;
+			background-color: darken($white, 25%);
+
+			.chapter {
+				width: 10px;
+				height: 10px;
+				position: absolute;
+				z-index: 1000;
+				cursor: pointer;
+				background: $light-grey;
+				transform: translateX(-50%);
+				&:hover {
+					background: $mainColor;
+				}
+			}
+            .final-timer {
+            	position: absolute;
+            	display: flex;
+            	justify-content: flex-end;
+            	bottom: 100%;
+            	width: 100%;
+            	&-number {
+                	background: darken($white, 25%);
+            		text-align: center;
+            		width: 100px;
+            		padding: 7px 0;
+            		border-top-left-radius: 4px;
+            		border-top-right-radius: 4px;
+            	}	
+            }
+            &-time {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 0;
+                height: 100%;
+                background-color: $mainColor;
+                background-color: lighten($black, 12%);
+                z-index: 2;
+                .current-timer {
+                	position: absolute;
+                	display: flex;
+                	justify-content: flex-end;
+                	bottom: 100%;
+                	width: 100%;
+                	min-width: 100px;
+                	&-number {
+	                	background-color: lighten($black, 12%);
+	                	color: $white;
+                		text-align: center;
+                		width: 100px;
+                		padding: 7px 0;
+            			border-top-left-radius: 4px;
+            			border-top-right-radius: 4px;
+                	}	
+                }
+            }
+            &-buffer {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 0;
+                height: 100%;
+                background-color: darken($white, 5%);
+                z-index: 1;
+            }
+        }
+    }
+    &-bottom {
+        position: relative;
+        background: $white;
+        padding: 5px 0 5px 10px;
+        display: flex;
+        justify-content: space-between;
+        &-left {
+        	display: flex;
+        }
+        .player-btn-close {
+        	width: 40px;
+        	height: 40px;
+        	margin-right: 10px;
+        	cursor: pointer;
+        	#btn-close {
+            	width: 100%;
+            	height: 100%;
+	        	display: flex;
+	        	justify-content: center;
+	        	align-items: center;
+        	}
+        	&:hover {
+        		#btn-close .btn-close-inner {
+				    &:before, &:after {
+				    	background-color: $midColor;
+				    }
+				}
+			}
+			.btn-close-inner {
+				width: 20px;
+				height: 20px;
+				position: relative;
+				&:before, &:after {
+				  position: absolute;
+				  content: ' ';
+				  height: 20px;
+				  width: 4px;
+				  left: calc(50% - 4px);
+				  background-color: $black;
+				}
+				&:before {
+				  transform: rotate(45deg);
+				}
+				&:after {
+				  transform: rotate(-45deg);
+				}				
+			}
+        }
+        .player-btn-actions {
+            width: 40px;
+            height: 40px;
+            margin-right: 20px;
+            cursor: pointer;
+            #btn-play, #btn-pause {
+            	width: 100%;
+            	height: 100%;
+	            display: flex;
+	            justify-content: center;
+	            align-items: center;
+            }
+            &-play {
+                width: 0;
+                height: 0;
+                margin-left: 2px;
+                border-left: 15px solid $black;
+                border-top: 9px solid transparent;
+                border-bottom: 9px solid transparent;
+                transition: all 0.15s ease-in;
+            }
+            &-pause {
+                width: 16px;
+                height: 18px;
+                border-left: 5px solid $black;
+                border-right: 5px solid $black;
+                transition: all 0.15s ease-in;
+            }
+        }
+        &-right {
+        	display: flex;
+        }
+        .player-btn-volume {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 20px;
+            z-index: 3;
+
+            &-mute {
+                width: 40px;
+                height: 40px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                cursor: pointer;
+                img {
+                    width: 20px;
+                }
+                &.muted {
+                    opacity: 0.15;
+                }
+            }
+            &-bar {
+                position: relative;
+                width: 120px;
+                height: 6px;
+                background: darken($white, 5%);
+                margin-left: 15px;
+                &-range {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background-color: $black;
+                    z-index: 2;
+                }
+            }
+        }
+        .wrap-drop {
+            width: 115px;
+            height: 100%;
+
+            background: $white;
+            cursor:pointer;
+
+            padding: 0;
+            display: flex;
+            align-items: center;
+
+            span {
+                padding: 0 4rem 0 2rem;
+                line-height: 40px;
+            }
+            &:after {
+                border-color: $black transparent;
+                border-style: solid;
+                border-width: 0 6px 8px;
+                content: "";
+                height: 0;
+                margin-top: -4px;
+                position: absolute;
+                right: 1.5rem;
+                top: 50%;
+                width: 0;
+            }
+            .drop {
+                background: $white;
+                width: 115px;
+                display:none;
+                right: 0;
+                list-style:none;
+                margin-top:0;
+                opacity:0;
+                padding-left:0;
+                pointer-events:none;
+                position:absolute;
+                bottom: calc(100% - 5px);
+                z-index:2;
+                max-height: 60vh;
+                overflow: auto;
+                li {
+                    padding: 1rem 2rem;
+                    color: darken($white, 15%);
+                    font-size: 1rem;
+                    line-height: 1;
+                    display: block;
+                    &.selected,
+                    &:hover {
+                            color: $black;
+                    }
+                }
+            }
+            &.active {
+                &:after {
+                    border-width:8px 6px 0;
+                }
+                .drop {
+                    display:block;
+                    opacity:1;
+                    pointer-events:auto;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+Autoid: partners
+
+----
+
+Title: Partners
+
+----
+
+Text: 
+
+----
+
+Partners: 
+
+- 
+  logo: designhuman.svg
+  link: http://designandhuman.com/
+
+----
+
+Translations: 1

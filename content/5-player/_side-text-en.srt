@@ -1,0 +1,187 @@
+1
+00:00:28,075 --> 00:01:12,613
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+2
+00:01:49,835 --> 00:03:51,765
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+3
+00:04:21,241 --> 00:05:48,713
+name:: Alain Findeli + description:: Nimes and Montreal Universities, Projekt laboratory, Nimes
+
+4
+00:05:58,871 --> 00:07:32,253
+name:: Laura Pandelle + description:: Service designer at the 27e région, Paris
+
+6
+00:07:37,999 --> 00:08:25,177
+name:: Thomas Schnur + description:: Product designer, Cologne
+
+7
+00:08:26,957 --> 00:11:13,678
+name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+
+8
+00:11:13,961 --> 00:11:38,318
+name:: Nicolas Nova + description:: Associate Professor, HEAD / The Near Future Laboratory, Geneva
+
+9
+00:11:42,162 --> 00:13:08,284
+name:: Geoffrey Dorne + description:: Designer and founder of Design&Human, Paris
+
+10
+00:13:09,093 --> 00:14:41,021
+name:: Sarah Gold + description:: Director and founder of IF, London
+
+11
+00:15:17,760 --> 00:15:56,117
+name:: Alain Findeli + description:: Nimes and Montreal Universities, Projekt laboratory, Nimes
+
+12
+00:15:56,765 --> 00:16:14,891
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+13
+00:16:15,539 --> 00:16:54,705
+name:: Nicolas Nova + description:: Associate Professor, HEAD / The Near Future Laboratory, Geneva
+
+14
+00:16:55,191 --> 00:17:32,739
+name:: Geoffrey Dorne + description:: Designer and founder of Design&Human, Paris
+
+15
+00:17:33,872 --> 00:18:49,615
+name:: Sarah Gold + description:: Director and founder of IF, London
+
+16
+00:18:50,262 --> 00:19:15,996
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+17
+00:21:07,262 --> 00:21:39,208
+name:: James Williams + description:: Doctoral candidate on attention ethics at the university of Oxford, co-founder of Time Well Spent, Oxford
+
+18
+00:21:39,775 --> 00:22:32,374
+name:: Flora Fischer + description:: Ethics researcher, Paris
+
+19
+00:22:32,698 --> 00:24:36,995
+name:: Matthieu Cherubini + description:: Design technologist, Shanghai
+
+20
+00:24:37,157 --> 00:25:44,767
+name:: Antoine Fenoglio + description:: Designer and founder of Sismo, Paris
+
+21
+00:25:44,929 --> 00:26:48,858
+name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+
+22
+00:26:54,644 --> 00:27:29,845
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+23
+00:27:37,573 --> 00:28:06,503
+name:: James Williams + description:: Doctoral candidate on attention ethics at the university of Oxford, co-founder of Time Well Spent, Oxford
+
+24
+00:28:06,908 --> 00:28:46,843
+name:: Flora Fischer + description:: Ethics researcher, Paris
+
+25
+00:28:54,450 --> 00:29:58,419
+name:: Sarah Gold + description:: Director and founder of IF, London
+
+26
+00:29:58,864 --> 00:30:26,701
+name:: James Williams + description:: Doctoral candidate on attention ethics at the university of Oxford, co-founder of Time Well Spent, Oxford
+
+27
+00:30:40,053 --> 00:31:25,451
+name:: James Williams + description:: Doctoral candidate on attention ethics at the university of Oxford, co-founder of Time Well Spent, Oxford
+
+28
+00:31:42,194 --> 00:33:00,850
+name:: Matthieu Cherubini + description:: Design technologist, Shanghai
+
+29
+00:33:01,425 --> 00:34:02,238
+name:: Nicolas Nova + description:: Associate Professor, HEAD / The Near Future Laboratory, Geneva
+
+30
+00:34:02,643 --> 00:34:55,323
+name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+
+31
+00:34:55,647 --> 00:35:26,155
+name:: Laura Pandelle + description:: Service designer at the 27e région, Paris
+
+32
+00:35:39,750 --> 00:37:25,313
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+33
+00:37:33,689 --> 00:37:52,948
+name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+
+34
+00:37:53,191 --> 00:39:13,021
+name:: Nicolas Nova + description:: Associate Professor, HEAD / The Near Future Laboratory, Geneva
+
+35
+00:39:24,107 --> 00:40:31,597
+name:: Sarah Gold + description:: Director and founder of IF, London
+
+36
+00:40:31,880 --> 00:41:05,099
+name:: Antoine Fenoglio + description:: Designer and founder of Sismo, Paris
+
+37
+00:41:05,422 --> 00:41:38,601
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+38
+00:41:38,924 --> 00:43:23,233
+name:: James Williams + description:: Doctoral candidate on attention ethics at the university of Oxford, co-founder of Time Well Spent, Oxford
+
+39
+00:43:47,227 --> 00:44:08,307
+name:: Thomas Schnur + description:: Product designer, Cologne
+
+40
+00:44:08,671 --> 00:44:35,173
+name:: Alain Findeli + description:: Nimes and Montreal Universities, Projekt laboratory, Nimes
+
+41
+00:44:36,144 --> 00:45:16,241
+name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+
+42
+00:45:16,687 --> 00:46:24,823
+name:: Antoine Fenoglio + description:: Designer and founder of Sismo, Paris
+
+43
+00:46:25,228 --> 00:47:00,065
+name:: Laura Pandelle + description:: Service designer at the 27e région, Paris
+
+44
+00:47:00,996 --> 00:47:26,001
+name:: Matthieu Cherubini + description:: Design technologist, Shanghai
+
+45
+00:47:26,324 --> 00:48:01,809
+name:: James Auger + description:: Designer and associate professor at M-ITI, Madeira
+
+46
+00:48:02,456 --> 00:48:57,322
+name:: Sarah Gold + description:: Director and founder of IF, London
+
+47
+00:48:58,940 --> 00:49:43,164
+name:: James Williams + description:: Doctoral candidate on attention ethics at the university of Oxford, co-founder of Time Well Spent, Oxford
+
+48
+00:49:44,135 --> 00:50:02,667
+name:: Thomas Schnur + description:: Product designer, Cologne

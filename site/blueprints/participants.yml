@@ -1,0 +1,45 @@
+title: Participants
+pages: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  title:
+    label: 
+      en: Title
+      fr: Titre
+    type:  text
+  heroimage:
+    label: Image
+    type: image
+    translate: false
+  participants:
+    label: 
+      en: List of participants
+      fr: Liste des participants
+    type: structure
+    style: table
+    fields:
+      name:
+        label:
+          en: Name
+          fr: Nom
+        type: text
+      bio:
+        label:
+          en: Short biography
+          fr: Courte biographie
+        type: textarea
+      links:
+        label:
+          en: Link(s)
+          fr: Lien(s)
+        type: text

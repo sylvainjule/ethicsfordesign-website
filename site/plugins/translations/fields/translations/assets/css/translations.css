@@ -1,0 +1,130 @@
+.field-translations-wrapper {
+  padding-bottom: 1em;
+}
+
+.field-translations-wrapper ul {
+  float: left;
+  margin-right: 4px;
+}
+
+.field-translations-wrapper li {
+  list-style: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 1em 1em 0;
+}
+
+.field-translations-wrapper .language-tab {
+  display: inline-block;
+  padding: .5em 1em;
+  border: 2px solid #ddd;
+  background: #efefef;
+  line-height: 1.5em;
+}
+
+.field-translations-wrapper .language-tab {
+  color: #777;
+}
+
+.field-translations-wrapper .language-tab:hover {
+  color: #000;
+}
+
+.field-translations-wrapper .active .language-tab {
+  background: #fff;
+}
+
+.field-translations-wrapper i {
+  margin-left: 3px;
+}
+
+.field-translations-wrapper .untranslated .language-tab:hover {
+  border-color: #b3000a;
+}
+
+.field-translations-wrapper .untranslated .language-tab i {
+  color: #b3000a;
+}
+
+.field-translations-wrapper .translated .language-tab:hover {
+  border-color: orange;
+}
+
+.field-translations-wrapper .translated .language-tab i {
+  color: orange;
+}
+
+
+.field-translations-wrapper .uptodate .language-tab:hover {
+  border-color: #8dae28;
+}
+
+.field-translations-wrapper .uptodate .language-tab i {
+  color: #8dae28;
+}
+
+.field-translations-wrapper .delete,
+.field-translations-wrapper .translations-delete,
+.field-translations-wrapper .translations-delete-confirm,
+.field-translations-wrapper .untranslated.active .delete,
+.field-translations-wrapper .update,
+.field-translations-wrapper .translations-update,
+.field-translations-wrapper .translations-update-confirm,
+.field-translations-wrapper .untranslated.active .update {
+  display: none;
+}
+
+.field-translations-wrapper .active.translated .delete,
+.field-translations-wrapper .active.translated .delete i,
+.field-translations-wrapper .active.translated .translations-delete,
+.field-translations-wrapper .active.translated .update,
+.field-translations-wrapper .active.translated .update i,
+.field-translations-wrapper .active.translated .translations-update {
+  display: inline;
+  color: #777;
+}
+
+.field-translations-wrapper .active.translated.default .translations-delete, 
+.field-translations-wrapper .active.translated.default .translations-update {
+  display: none;
+}
+
+.field-translations-wrapper .active .translations-delete-confirm, 
+.field-translations-wrapper .active .translations-update-confirm {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(239,239,239,0.85);
+  /*background: #efefef;*/
+  text-align: center;
+  padding-top: 5px;
+}
+
+.field-translations-wrapper .active .translations-delete-confirm .btn, 
+.field-translations-wrapper .active .translations-update-confirm .btn {
+  background: #efefef;
+}
+
+.field-translations-wrapper .active .translations-delete-confirm .btn:hover, 
+.field-translations-wrapper .active .translations-update-confirm .btn:hover {
+  background: black;
+}
+
+.field-translations-wrapper .active .translations-delete-confirm .btn-negative:hover, 
+.field-translations-wrapper .active .translations-update-confirm .btn-negative:hover {
+  background: #b3000a;
+}
+
+.field-translations-wrapper .translations-update-alert {
+  margin-top: 5px;
+}
+
+.field-translations-wrapper label.input {
+  display: block;
+  width: auto;
+  padding-right: 1em;
+  min-width: 15em;
+  background: none;
+}

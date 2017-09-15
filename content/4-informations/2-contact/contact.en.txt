@@ -1,0 +1,13 @@
+Autoid: contact
+
+----
+
+Title: Contact
+
+----
+
+Text: If you wish to broadcast the documentary in your school, your company or just want to send us your thoughts, please contact us at (email: contact@ethicsfordesign.com).
+
+----
+
+Translations: 1

@@ -1,0 +1,139 @@
+Autoid: participants
+
+----
+
+Title: Participants
+
+----
+
+Text: 
+
+----
+
+Participants: 
+
+- 
+  name: Alain Findeli
+  links: >
+    http://projekt.unimes.fr/membres/alain-findeli,
+    http://www.montreal2015.les-ard.org/speaker/alain-findeli
+  bio: "Ingénieur de formation, Alain Findeli s’est dirigé vers le design en s’interrogeant sur les aspects humains et sociaux de l’ingénierie. Il a produit une recherche conséquente sur l’enseignement du design (*Le Bauhaus de Chicago : l’œuvre pédagogique de László Moholy-Nagy*). Il a été associé au Centre de recherche en éthique de l'Université de Montréal et a conclu sa carrière en co-fondant à l'Université de Nîmes le Master Design-Innovation-Société et l'équipe de recherche en innovation sociale par le design PROJEKT."
+- 
+  name: James Auger
+  links: >
+    http://www.auger-loizeau.com,
+    http://crapfutures.tumblr.com
+  bio: 'James Auger a fait parti des designers qui ont questionné très tôt le rôle du designer et l’impact des produits issus d’une pratique de design (Tooth implant, J.Loizeau et J.Auger). Il a été ensuite professeur au Royal College of Art dans la célèbre section Interactions Design aux côtés de Fiona Raby et d’Anthony Dunne. Depuis 2015, James se consacre à ses projets de recherche au sein de l’institut technologique de Madère et écrit régulièrement avec Julian Hanna des réflexions sur les enjeux du design (*Crap Futures*).'
+- 
+  name: "Peter Bil'ak"
+  bio: 'Célèbre dessinateur de caractères auquel nous devons le *Fedra* ou le *FF Eureka*, Peter Bil’ak dirige Typotheque, son studio de design graphique et sa fonderie, depuis 18 ans. Peter a été co-rédacteur en chef du magazine *Dot dot dot* et a créé *Works that Work*. Après un voyage en Inde en 2005 il décide de s’associer avec Satya Rajpurohit, un dessinateur de caractère indien, pour créer Indian Type Foundry en 2009. Il a aussi participé récemment à la création du logiciel de location de polices FontStand.'
+  links: >
+    https://www.typotheque.com,
+    https://worksthatwork.com
+- 
+  name: Antoine Fenoglio
+  bio: >
+    Depuis 20 ans Antoine Fenoglio dirige
+    avec Frédéric Lecourt, son associé,
+    le studio de design Sismo. Le studio,
+    toujours insaisissable, travaille autant
+    sur des projets de design industriel que
+    des commissions d’exposition. Antoine,
+    designer de plus d’une vingtaine de
+    produits du quotidien, est engagé
+    depuis très longtemps pour faire
+    comprendre les enjeux du design au grand
+    public. Il a notamment été fait
+    Chevalier des Arts et Lettres en 2013.
+  links: http://sismodesign.com/fr
+- 
+  name: Flora Fischer
+  bio: 'Flora Fischer est doctorante en philosophie à l’Université de Technologie de Compiègne et chargée de programme de recherche au Cigref (Club Informatique des Grandes Entreprises Françaises). Flora travaille sur une approche éthique de la conception numérique, une *éthique by design*, notamment au sein des grandes entreprises. Elle aborde aussi le champ de recherche des *machine ethics* et de la déontologie du designer.'
+  links: http://www.cigref.fr
+- 
+  name: Sarah Gold
+  bio: >
+    Sarah Gold a créé IF pour adresser les
+    problèmes soulevés par la
+    transparence, la sécurité, le respect
+    de la vie privée et l’opensource lors
+    de la création de services numériques,
+    notamment dans le domaine public. Elle
+    fait parti du conseil d’experts de
+    l’institut de recherche en science de
+    la cyber-sécurité. Sarah a été aussi
+    lauréate du classement de Forbes 30
+    under 30 et de Nesta New Radical.
+  links: https://projectsbyif.com
+- 
+  name: James Williams
+  bio: 'James Williams est le co-fondateur du mouvement *Time Well Spent* avec Tristan Harris, il est aussi doctorant à l’université d’Oxford, au sein du Oxford Internet Institute, où il écrit sa thèse sur l’éthique de l’attention. Avant cela James a travaillé à Google pendant plus de dix ans et a reçu le Founder’s Award qui est la récompense la plus haute au sein de l’entreprise.'
+  links: >
+    https://www.oii.ox.ac.uk/people/james-williams,
+    http://www.timewellspent.io
+- 
+  name: Geoffrey Dorne
+  bio: 'Après avoir été designer indépendant et chercheur à l’EnsadLab, Geoffrey Dorne a créé sa propre agence de design social Design & Human qui travaille majoritairement avec des ONG, des entreprises, des associations. Geoffrey a une attention particulière aux démarches centrées sur les usages et emploie des processus ethnographiques pour un design sensé et sensible.'
+  links: http://designandhuman.com
+- 
+  name: Thomas Schnur
+  bio: >
+    Formé comme ébeniste puis comme
+    designer d’obet, Thomas Schnur est
+    passé par les ateliers de Mathieu
+    Lehanneur à Paris et a étudié à
+    l’école de design de Saint-Étienne.
+    Il a été plusieurs fois nominé pour
+    le German Design Award et au Designpreis
+    der Bundesrepublik Deutschland. À
+    travers son travail de recherche Thomas
+    s’intéresse au design des objets
+    communs et de leur diffusion dans les
+    différents types de cultures et de
+    sociétés.
+  links: http://www.thomasschnur.com
+- 
+  name: Matthieu Cherubini
+  bio: 'Après des études d’infirmier et d’ingénieur informatique, Matthieu a étudié le design d’interaction au Royal College of Art. Il a commencé là-bas un doctorat sur l’éthique des algorithmes en posant la question suivante: *Can Ethics be computable?* Son travail de design spéculatif sur les logiciels de soin ou de conduite est connu internationalement. Il travaille maintenant à Shanghai comme designer d’interaction (*design technologist*).'
+  links: http://mchrbn.net
+- 
+  name: Laura Pandelle
+  bio: >
+    Formée à l’Ensci au design de
+    produit, Laura travaille maintenant dans
+    l’association La 27e Région, qui
+    défend une transformation pour
+    l’innovation des politiques publiques
+    La 27e Région. En tant que designer
+    elle coordonne les expérimentations sur
+    le terrain et développe les méthodes
+    de l’association. Laura est
+    spécialisée dans les champs de
+    l’innovation par le service et de
+    l’innovation sociale.
+  links: http://www.la27eregion.fr
+- 
+  name: Nicolas Nova
+  bio: >
+    Nicolas Nova est professeur associé à
+    la Haute École d’Art et Design (Head)
+    de Genève et fait aussi parti de
+    l’agence de recherche Near Future
+    Laboratory. Son travail de recherche
+    s’oriente dans les domaines de
+    l’ethnographie, du design
+    d’interaction et de la prospective.
+    Nicolas documente et étudie les
+    pratiques liées à l’émergence de
+    nouveaux médias numériques.
+  links: >
+    http://nearfuturelaboratory.com,
+    http://www.nicolasnova.net
+
+----
+
+Translations: 1
+
+----
+
+Url-key: participants

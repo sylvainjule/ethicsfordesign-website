@@ -1,0 +1,58 @@
+Autoid: budget
+
+----
+
+Title: Budget
+
+----
+
+Text: 
+
+This documentary was produced entirely with 5402€ for 6 months. You can find the detailed budget here as an indication. It is not representative of the real wages for the work provided by the persons of the team, who chose to be paid less, or even not at all, in order to make the documentary happen.
+We hope that access to the documentary budget will help those who want to get involved by giving an idea of how to budget for this type of project.
+Moreover, as supporters of transparency, it seems important that all the figures are accessible so that you can better understand the conditions in which this documentary was produced.
+
+----
+
+Translations: 0
+
+----
+
+Entreesbudget: 
+
+- 
+  name: Transport
+  value: "1848"
+  amount: "1848"
+- 
+  name: Material
+  value: "1054"
+  amount: "1054"
+- 
+  name: Accomodations
+  value: "162"
+  amount: "162"
+- 
+  name: Daily expenses
+  value: "275"
+  amount: "275"
+- 
+  name: Withdrawals
+  value: "385"
+  amount: "385"
+- 
+  name: Web services
+  value: "259"
+  amount: "259"
+- 
+  name: Design
+  value: "156"
+  amount: "156"
+- 
+  name: Sound post-production
+  value: "1260"
+  amount: "1260"
+
+----
+
+Heroimage: 

@@ -1,0 +1,13 @@
+Autoid: contact
+
+----
+
+Title: Contact
+
+----
+
+Text: Si vous souhaitez diffuser le documentaire dans votre école, votre entreprise ou tout simplement nous transmettre vos réflexions, contactez nous via (email: contact@ethicsfordesign.com).
+
+----
+
+Translations: 1

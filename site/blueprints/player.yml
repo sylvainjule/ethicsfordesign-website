@@ -1,0 +1,37 @@
+title: Player
+pages: false
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+files:
+  fields:
+    langname:
+      label: Nom de la langue
+      type: text
+    langcode:
+      label: Code langue
+      type: text
+
+fields:
+  autoid:
+    type: hidden
+  translations:
+    type: translations
+  title:
+    label: Title
+    type:  text
+  mainvideo:
+    label: Video
+    type: select
+    options: videos
+    translate: false
+  quicktip:
+    label: Avant de démarrer
+    type: textarea
+  mobile:
+    label: Mobile
+    type: textarea

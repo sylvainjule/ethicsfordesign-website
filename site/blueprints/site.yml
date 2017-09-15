@@ -1,0 +1,48 @@
+title: Site
+
+pages:
+  max: 6
+options:
+  preview: false
+  status: false
+  template: false
+  url: false
+  delete: false
+
+fields:
+  translations:
+    type: translations
+    
+  title:
+    label: 
+      en: Title
+      fr: Titre
+    type:  text
+    translate: false
+    width: 1/2
+
+  author:
+    label: 
+      en: Developer
+      fr: Développeur
+    type:  text
+    translate: false
+    width: 1/2
+
+  login:
+    label:
+      en: User only
+      fr: Identification requise
+    type: radio
+    translate: false
+    options:
+      true:
+        en: 'Yes'
+        fr: 'Oui'
+      false:
+        en: 'No'
+        fr: 'Non'
+
+  description:
+    label: Description
+    type:  textarea

@@ -1,0 +1,54 @@
+Autoid: further
+
+----
+
+Title: Go forward
+
+----
+
+Text: 
+
+----
+
+Introduction: Here are some links, recommendations and documents to continue your personal thought on ethics:
+
+----
+
+Links: 
+
+- 
+  description: '*Code of Ethics for professional designer* by the French Design Alliance'
+  link: >
+    http://www.alliance-francaise-des-designers.org/code-of-ethics-for-professional-designer.html
+  langcode: en
+- 
+  description: '*Time Well Spent* initiative'
+  link: http://www.timewellspent.io/
+  langcode: en
+- 
+  description: '*Design for the real world* by Victor Papanek'
+  link: >
+    https://monoskop.org/images/c/c2/Papanek_Victor_Design_for_the_Real_World_2nd_ed.pdf
+  langcode: en
+- 
+  description: '*Ethical Design Manifesto* by Indie Team'
+  link: https://ind.ie/ethical-design/
+  langcode: en
+- 
+  description: '*Data Permission Catalogue* by IF'
+  link: https://catalogue.projectsbyif.com/
+  langcode: en
+- 
+  description: '*A Designer’s Code of Ethics* by Mike Monteiro'
+  link: >
+    https://deardesignstudent.com/a-designers-code-of-ethics-f4a88aca9e95
+  langcode: en
+- 
+  description: '*Ethics for Design*’s medium'
+  link: >
+    https://medium.com/@Gauthier.Roussilhe/pour-lautonomie-du-design-b0c29cf2c5b2
+  langcode: en
+
+----
+
+Translations: 1

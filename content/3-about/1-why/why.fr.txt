@@ -1,0 +1,21 @@
+Autoid: why
+
+----
+
+Title: Pourquoi ?
+
+----
+
+Text: 
+
+Chaque jour nous utilisons des objets, des services, des applications conçus par toute sorte de designers. Pourtant est-ce que tout ce que conçoit le designer est fait dans notre intérêt ? Certaines interfaces sont conçues pour obtenir toute notre attention, des séries de produits sont conçues pour mourir prématurément. Il devient évident que la conception de n’importe quel produit peut être un dilemme moral quand le designer doit choisir entre sa survie économique, l’intérêt financier de son commanditaire et le bien-être de l’usager. <br/> Face à ces dilemmes qui vont devenir une constante du métier de designer, il est primordial de créer une base de réflexion et de définir une orientation à une profession qui reste incroyablement éparse, c’est-à-dire définir une éthique.<br/> C’est parce qu’il est hors de question de laisser les générations actuelles et futures de designers indifférentes à l’impact de leur métier et à la valeur de leur responsabilité que nous avons fait ce documentaire. La question de l’éthique doit être soulevée maintenant si nous voulons que le métier de designer gagne en autonomie et en pertinence face aux enjeux réels de nos sociétés.<br/> L’éthique est un questionnement permanent sur ce qui est souhaitable pour le bien de tous et il est impensable que les designers ne prennent pas part aujourd’hui à ce questionnement.
+
+Pour plus de renseignements sur le documentaire, merci d’utiliser cette adresse : (email: contact@ethicsfordesign.com).
+
+----
+
+Translations: 0
+
+----
+
+Url-key: pourquoi

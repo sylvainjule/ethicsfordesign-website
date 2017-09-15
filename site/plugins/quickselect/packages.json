@@ -1,0 +1,8 @@
+{
+  "name": "quickselect",
+  "description": "Quickselect Field",
+  "author": "Thomas Günther <mail@medienbaecker.com>",
+  "version": "1.3",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

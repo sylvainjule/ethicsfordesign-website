@@ -1,0 +1,58 @@
+.ctn-login {
+	padding: 24px 30px 30px 30px;
+	color: $black;
+	p {
+		max-width: $textMaxWidth;
+	}
+	.alert {
+		color: $midColor;
+		display: inline-block;
+		margin-top: 1.35rem;
+		p {
+			font-size: 1.875rem;
+			line-height: 2.375rem;
+		}
+	}
+	form {
+		margin-top: 1.35rem;
+		input {
+			margin:0;
+			border:0;
+			padding:0;
+			display:inline-block;
+			white-space:normal;
+			background:none;
+			line-height:1;
+			&:focus {
+				outline: none;
+			}
+			&[type="text"], &[type="password"] {
+				color: $black;
+				border-bottom: 1px solid darken($white, 15%);
+				padding-bottom: 3px;
+				@include placeholder {
+					color: $light-grey, 25%;
+				}
+			}
+		}
+		label, input {
+			font-size: 1.875rem;
+			line-height: 2.375rem;
+		}
+		.ctn-password {
+			margin-top: 0.65rem;
+		}
+		.ctn-submit {
+			display: inline-block;
+			margin-top: 3rem;
+			input {
+				font-size: 3.375rem;
+				line-height: 1.1;
+				padding-bottom: 4px;
+				&:hover {
+					color: $midColor;
+				}
+			}
+		}
+	}
+}

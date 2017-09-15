@@ -1,0 +1,9 @@
+Description: À quoi devrait servir un designer ?
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+
+----
+
+Translations: 0
