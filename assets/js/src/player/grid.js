@@ -36,7 +36,7 @@ $(document).ready(function() {
         _windowH = _window.height(),
         _videoH = _video.outerHeight();
         _videoW = _video.outerWidth();
-        _videoHProp = _videoH * 100 / _windowH;
+        _videoHProp = (_videoH - 1) * 100 / _windowH;
         _videoWProp = _videoW * 100 / _windowW;
 	    
 	    _minX = 100 - _videoWProp; // Left limit : not less than X%
