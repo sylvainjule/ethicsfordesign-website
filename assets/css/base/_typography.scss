@@ -71,6 +71,8 @@ li {
 	}
 }
 a {
+	text-decoration: underline;
+	text-decoration-skip: ink;
 	&:hover {
 		color: $midColor;
 	}

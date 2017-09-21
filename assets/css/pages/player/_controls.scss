@@ -12,11 +12,10 @@
 	@include respond-to('verysmall') {
 		display: none;
 	}
+	.final-timer, .current-timer, .chapter {
+    	transition: opacity 0.3s cubic-bezier(0.215, 0.61, 0.355, 1)
+    }
     &.inactive {
-        transform: translateY(50px);
-        .player-controls-top {
-            height: 8px;
-        }
         .final-timer, .current-timer, .chapter {
         	opacity: 0;
         }
@@ -130,6 +129,7 @@
         position: relative;
         background: $white;
         padding: 5px 0 5px 10px;
+        height: 50px;
         display: flex;
         justify-content: space-between;
         &-left {
