@@ -71,10 +71,17 @@ li {
 	}
 }
 a {
-	text-decoration: underline;
-	text-decoration-skip: ink;
+	display: inline;
+	background-image: linear-gradient(to right, rgba(240,240,240,0.08) 100%);
+	background-origin: 0;
+	background-size: 200% 93%;
+	background-repeat: repeat-x;
+	background-position: -100% 90%; 
 	&:hover {
-		color: $midColor;
+		background: none;
+	}
+	&.no-background {
+		background: none;
 	}
 }
 i, em {

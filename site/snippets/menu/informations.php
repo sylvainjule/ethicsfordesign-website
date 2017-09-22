@@ -77,7 +77,7 @@
         	        	<ul class="tab-content-partners">
         	        	    <?php foreach($partners->partners()->toStructure() as $partner): ?>
         	        	    <li class="tab-content-partner">
-        	        	        <a href="<?php echo $partner->link() ?>" target="_blank"><img src="<?php echo $partner->logo()->toFile()->url() ?>" alt=""></a>
+        	        	        <a class="no-background" href="<?php echo $partner->link() ?>" target="_blank"><img src="<?php echo $partner->logo()->toFile()->url() ?>" alt=""></a>
         	        	    </li>   
         	        	    <?php endforeach; ?>            
         	        	</ul>

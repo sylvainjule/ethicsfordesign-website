@@ -195,7 +195,7 @@ $(document).ready(function() {
 			$('.pages').removeClass('first-hovered second-hovered third-hovered first-open second-open third-open').addClass(_class);
 
 
-			_this.addClass('open');
+			_this.removeClass('close').addClass('open');
 			$('.ctn-page').not(_this).removeClass('open close').addClass('close');
 
 			var _href = window.location.href,
