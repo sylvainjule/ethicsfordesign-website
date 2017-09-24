@@ -236,7 +236,7 @@ et qu’il fait sombre, vous pouvez laisser tomber la masse,
 
 61
 00:03:17,822 --> 00:03:21,576
-qui pendant sa chute fait tourner une générateur par une boite de vitesses et génère ainsi de l’electricité.
+qui pendant sa chute fait tourner un générateur via une boite de vitesses et génère ainsi de l’électricité.
 
 62
 00:03:22,327 --> 00:03:23,560
