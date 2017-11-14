@@ -397,6 +397,7 @@ img {
 	position: relative;
 	width: calc(100% + 17px);
 	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
 	overflow-x: hidden;
 	height: 100%;
 	&-proper-width {

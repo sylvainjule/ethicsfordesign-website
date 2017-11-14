@@ -107,7 +107,7 @@ gulp.task('js', ['scripts', 'player', 'js-watch']);
 gulp.task('init-live-reload', function() {
     bs.init({
         // server: { baseDir: './'},
-        proxy: "localhost/ethicsfordesign",
+        proxy: "localhost/_archives/ethicsfordesign",
         browser: 'google chrome'
     }) });
 
