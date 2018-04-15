@@ -1,0 +1,5 @@
+Langname: Svenska
+
+----
+
+Langcode: sv

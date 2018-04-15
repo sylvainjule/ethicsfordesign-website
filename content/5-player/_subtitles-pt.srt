@@ -1,0 +1,3142 @@
+2
+00:00:12,000 --> 00:00:13,169
+Gostava muito de criar coisas
+
+3
+00:00:13,250 --> 00:00:16,228
+mas estava a ficar mesmo cansado de criar a partir das ideias de outras pessoas
+
+4
+00:00:16,230 --> 00:00:20,148
+e comecei a ter uma atitude bastante cínica quanto ao mundo da publicidade.
+
+5
+00:00:20,152 --> 00:00:22,030
+Muito do trabalho que estávamos a fazer eram
+
+6
+00:00:22,040 --> 00:00:23,090
+anúncios para a televisão
+
+7
+00:00:23,101 --> 00:00:26,119
+para tentar vender produtos que não aprecio particularmente.
+
+8
+00:00:27,191 --> 00:00:30,129
+Por isso aos 29 anos candidatei-me ao
+
+9
+00:00:30,130 --> 00:00:33,209
+Royal College of Art
+
+10
+00:00:34,050 --> 00:00:36,009
+para fazer um curso chamado Produtos de Design *(Design Products)*.
+
+11
+00:00:37,051 --> 00:00:40,198
+Ron Arad, o arquiteto e designer, tinha acabado de assumir
+
+12
+00:00:40,210 --> 00:00:42,159
+a direço do curso.
+
+13
+00:00:43,161 --> 00:00:45,140
+Foi-me concedido o lugar e comecei a formação
+
+14
+00:00:46,060 --> 00:00:48,099
+e isso introduziu-me ao que é,
+
+15
+00:00:49,060 --> 00:00:51,218
+penso eu, o tipo de trabalho que faço ainda hoje:
+
+16
+00:00:52,080 --> 00:00:53,035
+design crítico,
+
+17
+00:00:53,140 --> 00:00:55,209
+usar o design para questionar a tecnologia
+
+18
+00:00:56,160 --> 00:00:59,350
+construindo um conjunto de produtos interessantes que
+
+19
+00:00:59,642 --> 00:01:01,561
+o façam em vez de usar a palavra escrita,
+
+20
+00:01:02,096 --> 00:01:05,815
+usar objetos e artefactos desenhados para
+
+21
+00:01:06,15 --> 00:01:08,359
+mudar a forma como pensamos acerca das coisas,
+
+22
+00:01:08,985 --> 00:01:10,737
+para encorajar o pensamento diferente sobre
+
+23
+00:01:10,738 --> 00:01:12,612
+a tecnologia e os produtos tecnológicos.
+
+24
+00:01:13,198 --> 00:01:15,283
+Há um dispositivo que recebe um sinal
+
+25
+00:01:15,699 --> 00:01:17,035
+mas que depois transmite 
+
+26
+00:01:17,036 --> 00:01:18,912
+uma baixa frequência para a boca
+
+27
+00:01:19,329 --> 00:01:21,022
+e que se traduz
+
+28
+00:01:22,123 --> 00:01:22,957
+numa vibração
+
+29
+00:01:23,458 --> 00:01:25,235
+no ouvido interno e que é percebida como
+
+30
+00:01:26,211 --> 00:01:27,629
+um fluxo sonoro, uma transmição de som.
+
+31
+00:01:28,004 --> 00:01:29,047
+As possibilidades são infinitas,
+
+32
+00:01:29,048 --> 00:01:32,687
+os primeiros ministros podiam receber orientações secretas dos seus assessores especiais,
+
+33
+00:01:33,218 --> 00:01:36,102
+treinadores de futebol podiam passar instruções táticas aos seus jogadores
+
+34
+00:01:36,888 --> 00:01:38,056
+e ninguém ia descobrir.
+
+35
+00:01:38,098 --> 00:01:39,599
+Imagina alguém do mercado de ações,
+
+36
+00:01:39,891 --> 00:01:43,269
+se estiver no teatro, se estiver no cinema, se estiver a dormir na cama, se estiver na praia,
+
+37
+00:01:44,270 --> 00:01:47,899
+a informação sobre rumores de ações de empresas a falir e por aí fora
+
+38
+00:01:48,191 --> 00:01:49,776
+podia chegar-lhe imediatamente e ele podia reagir.
+
+39
+00:01:50,030 --> 00:01:53,00
+Comecei a pensar sobre o projeto de Mo sobre a independência energética
+
+40
+00:01:53,05 --> 00:01:55,09
+e comecei a olhar para a paisagem da Madeira.
+
+41
+00:01:55,10 --> 00:01:58,05
+Não se consegue ver muito na direção para que a lente está a apontar
+
+42
+00:01:58,06 --> 00:02:00,995
+mas para aonde estou a olhar consigo ver estes enormes penhascos,
+
+43
+00:02:01,07 --> 00:02:03,02
+a Madeira é extremamente vertical.
+
+44
+00:02:03,735 --> 00:02:07,085
+Portanto comecei a pensar no que o projeto de Mo poderia ser na Madeira
+
+45
+00:02:07,544 --> 00:02:11,506
+e muito rapidamente surgiu esta ideia da bateria gravítica.
+
+46
+00:02:13,174 --> 00:02:16,386
+Essencialmente, em poucas palavras, a bateria gravítica
+
+47
+00:02:17,470 --> 00:02:22,475
+é um dispositivo que funciona como um meio de armazenamento.
+
+48
+00:02:23,017 --> 00:02:25,19
+Ou seja, ainda usas os teus painéis solares ou turbinas eólicas,
+
+49
+00:02:25,20 --> 00:02:29,315
+qualquer técnica de geração de energia renovável. Mas essa energia
+
+50
+00:02:29,758 --> 00:02:33,319
+é gerada se estiver sol, geralmente quando as pessoas estão a trabalhar ou fora de casa,
+
+51
+00:02:33,611 --> 00:02:34,696
+quando não precisam da energia.
+
+52
+00:02:35,363 --> 00:02:37,907
+A única solução, neste momento, é vendê-la de volta à rede,
+
+53
+00:02:38,408 --> 00:02:40,869
+que são os proprietários da infraestrutura,
+
+54
+00:02:41,512 --> 00:02:46,124
+e ano após ano após ano após ano têm reduzido o preço a que a compram, tornando isto inviável.
+
+55
+00:02:47,000 --> 00:02:51,629
+Com a bateria gravítica o que permitimos que as pessoas façam é usar esta energia solar para erguer uma massa
+
+56
+00:02:52,505 --> 00:02:56,551
+no ar, e com vários dos penhascos das comunidades da Madeira isso pode ser
+
+57
+00:02:57,093 --> 00:03:01,931
+qualquer coisa desde 10-14 até 500 metros de verticalidade.
+
+58
+00:03:01,933 --> 00:03:06,769
+Então quanto mais altura tiveres, mais tempo tens para soltar a massa e mais energia consegues armazenar, essencialmente.
+
+59
+00:03:08,062 --> 00:03:11,941
+Ergues a massa durante o dia e depois quando precisas de energia ao chegar do trabalho,
+
+60
+00:03:12,400 --> 00:03:17,030
+está escuro, já não há sol e podes largar a massa para que ela caia pelo espaço,
+
+61
+00:03:17,822 --> 00:03:21,576
+através de uma caixa de velocidades, que roda um gerador para produzir eletricidade.
+
+62
+00:03:22,327 --> 00:03:23,560
+É tudo *open source*,
+
+63
+00:03:24,003 --> 00:03:28,625
+estamos a remover o papél das grandes corporações de grandes plantas fabrís,
+
+64
+00:03:29,000 --> 00:03:34,505
+estamos a mante-la fácil de construir, a versão atual usa um motor de mota
+
+65
+00:03:35,089 --> 00:03:37,217
+que encontrámos numa socata local, é muito barato,
+
+66
+00:03:37,434 --> 00:03:40,803
+estamos a reapropriar a caixa de velocidades da mota
+
+67
+00:03:41,804 --> 00:03:43,556
+porque já são muito exatos e já estão construidos
+
+68
+00:03:43,932 --> 00:03:47,227
+e depois só brincamos com as mudanças e brincamos com a massa,
+
+69
+00:03:47,946 --> 00:03:51,689
+brincamos com a velocidade de queda e podemos adaptar isto a vários produtos domésticos.
+
+70
+00:04:21,655 --> 00:04:25,736
+Em Nîmes usamos o termo de habitabilidade do mundo,
+
+71
+00:04:26,490 --> 00:04:29,602
+dizemos que o design se pode prestar
+
+72
+00:04:30,228 --> 00:04:33,940
+a manter ou aumentar
+
+73
+00:04:34,857 --> 00:04:38,569
+a habitabilidade do mundo para os seus habitantes e as suas habitantes.
+
+74
+00:04:39,112 --> 00:04:42,949
+Portanto devemos compreender a palavra habitar a vários níveis.
+
+75
+00:04:43,389 --> 00:04:45,994
+Evidentemente, o primeiro nível é o nível material
+
+76
+00:04:47,161 --> 00:04:56,379
+portanto isto significa viver numa casa ao abrigo dos riscos climatéricos, etc. nisto não insisto.
+
+77
+00:04:56,921 --> 00:05:01,175
+Depois há a habitabilidade do ponto de vista vital,
+
+78
+00:05:01,884 --> 00:05:03,261
+é necessário que nos mantenhamos saudáveis
+
+79
+00:05:03,393 --> 00:05:06,586
+portanto isto é um pouco a habitabilidade
+
+80
+00:05:06,897 --> 00:05:07,961
+do seu corpo orgânico
+
+81
+00:05:08,715 --> 00:05:10,756
+e biológico.
+
+82
+00:05:12,530 --> 00:05:16,699
+De seguida falamos da habitabilidade psicossocial
+
+83
+00:05:17,276 --> 00:05:20,735
+portanto neste ponto é necessário conviver com outros habitantes e outras habitantes
+
+84
+00:05:21,933 --> 00:05:23,840
+portanto, de novo, nem sempre é fácil.
+
+85
+00:05:24,615 --> 00:05:30,204
+E finalmente há uma última habitabilidade a que às vezes chamo espiritual ou cultural,
+
+86
+00:05:31,372 --> 00:05:35,126
+que é: habitar verdadeiramente enquanto ser humano e não enquanto animal
+
+87
+00:05:35,293 --> 00:05:40,757
+e que é portanto a habilidade de o ser humano poder criar um mundo cultural
+
+88
+00:05:41,360 --> 00:05:44,886
+em que seja bom viver e desenvolver e florescer.
+
+89
+00:05:45,678 --> 00:05:48,945
+Portanto é neste sentido que entendemos a habitabilidade.
+
+90
+00:05:58,880 --> 00:06:02,987
+Chamo-me Laura Pandelle e trabalho como designer para uma associação chamada La 27e Région
+
+91
+00:06:03,988 --> 00:06:08,618
+que se define como um laboratório de pesquisa-ação sobre politicas públicas francesas.
+
+92
+00:06:08,771 --> 00:06:13,872
+Por politicas públicas entendam-se todos os artefactos, serviços e todos os processos que são
+
+93
+00:06:14,374 --> 00:06:18,044
+proposto pelas autoridades públicas, portanto o estado e as autoridades locais,
+
+94
+00:06:18,795 --> 00:06:23,674
+para facilitar a vida de um cidadão francês enquanto cidadão.
+
+95
+00:06:36,020 --> 00:06:39,649
+Portanto este é um programa que temos desde a criação da associação
+
+96
+00:06:40,149 --> 00:06:46,823
+e que visa simplesmente fazer permanências. Imergimo-nos em instituições públicas, o que pode ser uma escola secundária, uma estação, um hospital
+
+97
+00:06:47,271 --> 00:06:48,741
+e habitamos o local.
+
+98
+00:06:49,450 --> 00:06:53,621
+Somos uma equipa pequena composta de sociólogos, arquitetos, designers e por vezes artistas plásticos.
+
+99
+00:06:53,996 --> 00:06:58,000
+Habitamos os locais e tentamos perceber o que não funciona nesse serviço público,
+
+100
+00:06:58,334 --> 00:06:59,085
+em que ponto bloqueia.
+
+101
+00:07:00,086 --> 00:07:03,682
+Há situações de agressividade ou de violência nos locais que nos recebem?
+
+102
+00:07:04,132 --> 00:07:07,468
+Há pessoas stressadas ou infelizes?
+
+103
+00:07:07,718 --> 00:07:11,347
+are there tensions between professionals, a lack of understanding, of signage.
+Há tensões entre os profissionais? Há falta de compreensão, de sinalética?
+
+104
+00:07:11,666 --> 00:07:17,121
+É necessário habitar o local e conhecer as pessoas, passar tempo com elas, questionar todos os atores locais
+
+105
+00:07:17,603 --> 00:07:21,607
+e depois uma vez que tenhamos feito esse diagnóstico pela experiência,
+
+106
+00:07:23,109 --> 00:07:27,530
+e isto questionando a experiência dos utilizadores e não de quem toma as decisões,
+
+107
+00:07:28,489 --> 00:07:32,243
+podemos agir e podemos propor e testar soluções enquanto estamos no local.
+
+108
+00:07:38,416 --> 00:07:40,452
+Esta mesa nasceu de um detalhe.
+
+109
+00:07:40,718 --> 00:07:43,911
+Descobri uma pequena peça de metal
+
+110
+00:07:44,310 --> 00:07:47,341
+no pátio dos meus avós
+
+111
+00:07:49,260 --> 00:07:51,220
+e essa peça foi torcida
+
+112
+00:07:52,930 --> 00:07:55,931
+para dar mais estabilidade a uma função específica.
+
+113
+00:07:56,419 --> 00:07:58,895
+Normalmente tens um metal,
+
+114
+00:08:00,104 --> 00:08:02,648
+a metal part that is just straight like that,
+uma peça de metal que é assim, reta.
+
+115
+00:08:04,692 --> 00:08:07,278
+Não cria estabilidade nenhuma nesta direção
+
+116
+00:08:08,875 --> 00:08:13,910
+porque é como um papel, uma folha de papel que é assim,
+
+117
+00:08:14,869 --> 00:08:17,436
+mas muita estabilidade nesta direção,
+
+118
+00:08:19,582 --> 00:08:20,875
+e se a torceres,
+
+119
+00:08:21,501 --> 00:08:25,129
+cria três dimensões, torna-se mais estável.
+
+120
+00:08:27,194 --> 00:08:28,549
+*Works that Work* é uma revista,
+
+121
+00:08:29,842 --> 00:08:33,935
+a minha formação é em design e reparei que não leio revistas de design,
+
+122
+00:08:34,722 --> 00:08:35,515
+por várias razões.
+
+123
+00:08:36,098 --> 00:08:39,143
+Acho que a maior razão é que normalmente se fecham numa bolha,
+
+124
+00:08:39,923 --> 00:08:43,105
+são escritas por designers para designers
+
+125
+00:08:43,689 --> 00:08:45,566
+e excluem um público mais alargado.
+
+126
+00:08:46,943 --> 00:08:51,531
+Consegues mesmo ver que a revista mais especializada se torna a mais elitista
+
+127
+00:08:51,532 --> 00:08:54,075
+ou exclui outro público
+
+128
+00:08:54,700 --> 00:08:59,205
+e os designers acreditam que o seu trabalho é relevante para uma audiência mais abrangente.
+
+129
+00:08:59,830 --> 00:09:02,291
+Os designers acreditam que o seu trabalho pode mudar o mundo,
+
+130
+00:09:03,000 --> 00:09:09,103
+acreditam que o seu trabalho se aplica a todos os níveis da sociedade e a diferentes estratos sociais
+
+131
+00:09:09,427 --> 00:09:13,365
+mas na prática o discurso do design mantém-se muito isolado.
+
+132
+00:09:15,346 --> 00:09:21,069
+Portanto queria ver se era possível criar uma publicação que fosse sobre design mas não para designers.
+
+133
+00:09:21,449 --> 00:09:23,402
+Que falasse das virtudes,
+
+134
+00:09:25,091 --> 00:09:27,432
+que falasse do propósito, que falasse mais sobre
+
+135
+00:09:28,192 --> 00:09:30,345
+ideias que aparências.
+
+136
+00:09:31,394 --> 00:09:36,303
+Devo dizer que a revista teve sucesso para mim porque o meu irmão a lê e acha-a relevante,
+
+137
+00:09:36,304 --> 00:09:37,156
+acha que
+
+138
+00:09:37,430 --> 00:09:41,038
+não tem gíria, não fala da aparência das coisas
+
+139
+00:09:41,039 --> 00:09:43,279
+mas sim de coisas simples e básicas:
+
+140
+00:09:43,399 --> 00:09:47,081
+como se pode melhorar a qualidade de vida em diferentes sítios,
+
+141
+00:09:48,075 --> 00:09:52,264
+são coisas muito práticas. Por exemplo, como se poderiam resolver situações de trânsito sem
+
+142
+00:09:52,424 --> 00:09:53,464
+instalar sinais de trânsito,
+
+143
+00:09:53,465 --> 00:09:55,273
+coisas mesmo básicas como
+
+144
+00:09:56,366 --> 00:09:59,187
+como a globalização aconteceu devido a simples
+
+145
+00:10:00,255 --> 00:10:01,468
+desenvolvimentos logísticos.
+
+146
+00:10:08,241 --> 00:10:09,412
+Quando começámos a *Works that Work*
+
+147
+00:10:10,432 --> 00:10:15,095
+era claro que queríamos arranjar a forma mais direta de chegar aos leitores,
+
+148
+00:10:15,229 --> 00:10:17,256
+cortar todos os intermediários
+
+149
+00:10:18,416 --> 00:10:22,027
+e tambm que a revista fosse financiada pelos leitores e não por outras pessoas
+
+150
+00:10:22,028 --> 00:10:24,219
+Não há fontes externas de financiamento.
+
+151
+00:10:25,119 --> 00:10:29,101
+*Works that Work* examina as áreas do design que normalmente são ignoradas.
+
+152
+00:10:31,166 --> 00:10:35,144
+Ainda com este objetivo, também tencionamos evitar cadeias de distribuição tradicionais
+
+153
+00:10:35,404 --> 00:10:38,286
+que normalmente ficam com a maior parte do preço de venda,
+
+154
+00:10:38,287 --> 00:10:42,348
+e que controlam aonde a publicação vai ser vendida e a que preço.
+
+155
+00:10:43,468 --> 00:10:46,470
+Como alternativa gostávamos de aprofundar a nossa relação com os nossos leitores
+
+156
+00:10:46,471 --> 00:10:50,370
+e torna-los parceiros nesta iniciativa. Chamamos a isto Distribuição Social.
+
+157
+00:10:51,432 --> 00:10:56,137
+Temos clubes de leitores em que pessoas adquirem grandes quantidades de revistas
+
+158
+00:10:56,294 --> 00:10:57,055
+para os seus amigos,
+
+159
+00:10:57,375 --> 00:11:03,057
+e em troca podemos dar-lhes a revista pelo preço que normalmente é reservado aos distribuidores,
+
+160
+00:11:03,092 --> 00:11:04,178
+ou seja, têm-na por metade do preço
+
+161
+00:11:04,398 --> 00:11:06,039
+portanto ambos os lados ficam a ganhar.
+
+162
+00:11:06,299 --> 00:11:08,260
+Criámos a ligação mais direta com os leitores,
+
+163
+00:11:08,460 --> 00:11:13,283
+e eles são recompensados porque nós evitamos toda a cadeia de distribuição.
+
+164
+00:11:13,463 --> 00:11:17,425
+Os designers não existem apenas para criar um novo objeto ou um novo produto ou um novo serviço,
+
+165
+00:11:18,205 --> 00:11:22,075
+existem para pensar sobre esse objeto no contexto da vida das pessoas
+
+166
+00:11:22,212 --> 00:11:26,449
+com consequências, com problemas, com limites, com oportunidades e com inconvenientes
+
+167
+00:11:27,329 --> 00:11:31,031
+e quanto mais os designers anteciparem essas coisas,
+
+168
+00:11:33,012 --> 00:11:35,013
+melhor, porque iriam
+
+169
+00:11:35,333 --> 00:11:38,254
+re-alinhar ou reajustar os seus projetos.
+
+170
+00:11:42,316 --> 00:11:45,058
+Bem, a *Refugeye* é um projeto desenvolvido internamente.
+
+171
+00:11:45,358 --> 00:11:47,379
+É um projeto muito simples, é uma aplicação
+
+172
+00:11:48,359 --> 00:11:53,182
+que funciona num *smartphone* e que permite simplificar a comunicação entre pessoas refugiadas,
+
+173
+00:11:53,293 --> 00:11:58,264
+cidadãos e organizações, caridades etc., através de pictogramas.
+
+174
+00:11:59,084 --> 00:12:02,266
+A interface é muito simples, é uma interface em que há um conjunto de pictogramas, de símbolos,
+
+175
+00:12:03,006 --> 00:12:07,188
+posso fazer pesquisas em várias línguas diferentes, em persa, em inglês,
+
+176
+00:12:08,289 --> 00:12:10,250
+em cirílico, em russo, não interessa.
+
+177
+00:12:11,210 --> 00:12:16,253
+E a partir daí posso arrastar os pictogramas que escolhi para o meu telemóvel e eles são exibidos em grande,
+
+178
+00:12:16,369 --> 00:12:20,074
+posso pôr 1, 2, 3, posso circula-los, riscá-los, escrever sobre eles,
+
+179
+00:12:21,095 --> 00:12:22,407
+e posso explicar dessa forma, sem palavras,
+
+180
+00:12:23,256 --> 00:12:30,001
+conceitos que são por vezes um pouco difíceis e delicados, sobre a sensura, sobre a fuga de um país
+
+181
+00:12:31,080 --> 00:12:32,360
+sobre a sexualidade, a tortura etc.
+
+
+182
+00:12:32,361 --> 00:12:36,422
+portanto bastantes conceitos que poderiam por vezes ser difíceis e complexos de discutir.
+
+183
+00:12:37,041 --> 00:12:41,141
+Financiei-a por conta própria, concebi-a a partir de *insights*, de testes com os utilizadores etc,
+
+184
+00:12:41,142 --> 00:12:42,247
+portanto houve mesmo um processo,
+
+185
+00:12:43,085 --> 00:12:46,167
+e depois disponibilizei tudo em *open-source*, libertei o projeto tanto quanto possível
+
+186
+00:12:46,367 --> 00:12:49,332
+e é hoje em dia um projeto utilizado pelas pessoas refugiadas,
+
+187
+00:12:50,078 --> 00:12:52,330
+penso que no *SOS Méditerranée*
+
+188
+00:12:53,090 --> 00:12:56,452
+me disseram que a utilizavam, a *Bibliothèques sans Frontières* também a instalou nas suas ferramentas.
+
+189
+00:12:57,232 --> 00:12:59,168
+Portanto aqui trabalho assim: divulgo,
+
+190
+00:12:59,424 --> 00:13:01,044
+funciona ou não funciona, testo, e pronto se funcionar ótimo,
+
+191
+00:13:01,234 --> 00:13:04,476
+se não funcionar há mil e um projetos por desenvolver.
+
+192
+00:13:05,316 --> 00:13:08,193
+É o género de coisa que tento desenvolver mais e mais.
+
+193
+00:13:08,322 --> 00:13:11,355
+Acho que tenho sido um bocadinho dicidente durante toda a minha carreira,
+
+194
+00:13:11,356 --> 00:13:14,180
+tenho sempre... quer seja em arquitetura, não apreciar
+
+195
+00:13:14,307 --> 00:13:16,442
+ou acreditar qualquer modelo económico no qual construimos,
+
+196
+00:13:17,126 --> 00:13:21,204
+quer tenham sido projetos comerciais que me deram em design industrial e
+
+197
+00:13:21,333 --> 00:13:23,064
+ao trabalhar à volta desses *briefs*.
+
+198
+00:13:23,367 --> 00:13:26,229
+Acho que fui sempre
+
+199
+00:13:27,005 --> 00:13:30,122
+motivada pela falta de algo no mundo
+
+200
+00:13:30,123 --> 00:13:33,350
+que eu sentia... a necessidade de
+
+201
+00:13:33,429 --> 00:13:36,00
+privacidade e segurança são questões que são ou foram e serão ser sempre importantes.
+
+202
+00:13:39,152 --> 00:13:41,349
+Mas hoje em dia temos cada vez mais
+
+203
+00:13:42,094 --> 00:13:45,195
+dispositivos, produtos e serviços ligados à internet,
+
+204
+00:13:45,456 --> 00:13:48,218
+assim como mais organizações ligadas à internet
+
+205
+00:13:48,418 --> 00:13:53,156
+e são gerados e agregados mais dados pessoais.
+
+206
+00:13:53,194 --> 00:13:55,440
+E neste momento estamos numa posição em que,
+
+207
+00:13:56,454 --> 00:14:00,022
+enquanto utilizadores, temos pouco controlo sobre tudo isso.
+
+208
+00:14:00,263 --> 00:14:02,284
+Penso que há uma oportunidade
+
+209
+00:14:02,359 --> 00:14:06,205
+para o design atuar e repôr o equilíbrio em alguns pontos,
+
+210
+00:14:06,303 --> 00:14:10,367
+para começar a pensar sobre como podemos desenhar serviços que aumentem o poder das pessoas.
+
+211
+00:14:11,029 --> 00:14:12,053
+Por isso fundei a *IF*
+
+212
+00:14:12,309 --> 00:14:17,111
+precisamente pela frustração de a segurança e a privacidade não serem vistas
+
+213
+00:14:17,471 --> 00:14:19,275
+de uma forma significante
+
+214
+00:14:20,012 --> 00:14:21,313
+nas organizações, há uns anos.
+
+215
+00:14:22,095 --> 00:14:25,194
+Acho que a situação mudou consideravelmente, últimamente.
+
+216
+00:14:25,333 --> 00:14:28,176
+Acho que a situação política teve alguma influência nisso,
+
+217
+00:14:28,456 --> 00:14:32,058
+mas cada vez mais, quando falo com pessoas,
+
+218
+00:14:32,059 --> 00:14:33,211
+em vez de me dizerem:
+
+219
+00:14:34,099 --> 00:14:35,460
+“porque havias de fazer isso?”, “há interesse nisso?”,
+
+220
+00:14:36,394 --> 00:14:40,462
+dizem “isso é to importante! É bom saber que há alguém a trabalhar no assunto”.
+
+221
+00:14:41,402 --> 00:14:46,124
+A privacidade é um pilar da liberdade,
+
+222
+00:14:46,425 --> 00:14:49,469
+a era digital nas tecnologias de comunicação vai, sem dúvida,
+
+223
+00:14:50,287 --> 00:14:54,029
+aumentar o interesse geral pessoas
+
+224
+00:14:54,248 --> 00:14:57,150
+sobre a sensibilidade da informação pessoal
+
+225
+00:14:57,390 --> 00:15:01,212
+que pode ser obtida e divulgada sobre cidadãos individuais
+
+226
+00:15:01,394 --> 00:15:04,473
+e a crescente omnipresença
+
+227
+00:15:05,214 --> 00:15:06,439
+dessa tal agregação de dados.
+
+228
+00:15:17,219 --> 00:15:20,106
+É possível desviarmo-nos em qualquer profissão.
+
+229
+00:15:21,301 --> 00:15:24,299
+Fala-se de cuidados médicos inúteis na saúde,
+
+230
+00:15:24,300 --> 00:15:27,324
+o que deriva de um ato profissional.
+
+231
+00:15:28,045 --> 00:15:29,389
+Há desvios semelhantes no design?
+
+232
+00:15:29,390 --> 00:15:34,087
+Claro que há desvios semelhantes, os designers não são mais perfeitos que os outros.
+
+233
+00:15:34,322 --> 00:15:36,429
+Portanto estão sujeitos às mesmas tentações.
+
+234
+00:15:37,085 --> 00:15:39,472
+A tentação principal é a tentação
+
+235
+00:15:40,411 --> 00:15:43,312
+da arrogância do artista,
+
+236
+00:15:44,453 --> 00:15:46,374
+é a tentação da assinatura,
+
+237
+00:15:47,314 --> 00:15:52,075
+é a tentação da capa de revista impressa em papel acetinado,
+
+238
+00:15:53,097 --> 00:15:56,138
+é a tentação da celebridade, nada mais.
+
+239
+00:15:56,279 --> 00:15:57,237
+Esta ideia
+
+240
+00:15:58,186 --> 00:16:00,220
+de que os grandes designers possam ser celebridades
+
+241
+00:16:00,460 --> 00:16:03,001
+por porem mais merda no mundo...
+
+242
+00:16:04,036 --> 00:16:07,183
+Sim! O design é uma indstria problemática para mim.
+
+243
+00:16:08,066 --> 00:16:11,105
+Que outra industria cria celebridades a partir de pessoas
+
+244
+00:16:12,082 --> 00:16:14,447
+que criam coisas a que apenas alguns têm acesso?
+
+245
+00:16:15,327 --> 00:16:17,072
+O designer como autor
+
+246
+00:16:18,126 --> 00:16:18,387
+cuja
+
+247
+00:16:20,016 --> 00:16:22,434
+perspetiva é fantástica e que deve
+
+248
+00:16:23,476 --> 00:16:27,334
+criar o seu trabalho a partir da sua criatividade genial.
+
+249
+00:16:27,335 --> 00:16:31,215
+Existem imensos mitos sobre a criatividade de um designer que
+
+250
+00:16:32,310 --> 00:16:37,158
+deixam o interesse dos designers por pessoas, em pesquisa de campo, mais ou menos...
+
+251
+00:16:38,226 --> 00:16:39,361
+praticamente de fora.
+
+252
+00:16:39,362 --> 00:16:42,120
+Não é necessáriamente verdade para todos os designers, mas
+
+253
+00:16:42,121 --> 00:16:44,281
+acho que há a tendência,
+
+254
+00:16:45,061 --> 00:16:49,384
+para muitos designers comerciais, de não se interessarem por
+
+255
+00:16:50,132 --> 00:16:54,286
+pessoas reais, mas mais pelas suas perspetivas e mitos sobre as pessoas.
+
+256
+00:16:54,507 --> 00:16:56,447
+Sobre os perigos em relação ao design...
+
+257
+00:16:58,053 --> 00:16:58,468
+Acho que é
+
+258
+00:16:59,230 --> 00:17:01,109
+a emancipação do design,
+
+259
+00:17:02,130 --> 00:17:07,012
+enfim, os perigos que prejudicam o design são o design a cargo do marketing,
+
+260
+00:17:07,142 --> 00:17:09,179
+o design a cargo de...
+
+261
+00:17:10,073 --> 00:17:12,255
+Um pouco como quando falamos de *greenwashing*.
+
+262
+00:17:14,135 --> 00:17:16,357
+Desconfio do design que seria descrito como *human washing*
+
+263
+00:17:17,117 --> 00:17:22,239
+em que todas as empresas, mesmo as piores, se tornam éticas, sociais, comprometidas, solidárias, sei lá.
+
+264
+00:17:22,438 --> 00:17:27,250
+E que o design venha garantir este tipo de extravio,
+
+265
+00:17:30,283 --> 00:17:33,120
+acho que é o design como arma de manipulação.
+
+266
+00:17:33,325 --> 00:17:35,466
+Bem, acho que o design tem uma série de desafios
+
+267
+00:17:36,166 --> 00:17:40,419
+porque muitas organizações nem se apercebem de que o design devia estar na agenda destas reúniões, não é?
+
+268
+00:17:41,065 --> 00:17:45,032
+Portanto não estás apenas a falar de ética, estás também a dizer que o design devia estar incluido,
+
+269
+00:17:45,190 --> 00:17:48,046
+temos uma razão legítima para fazer parte
+
+270
+00:17:48,292 --> 00:17:51,073
+da conversa, parte da decisão.
+
+271
+00:17:51,393 --> 00:17:54,375
+Portanto em muitos sítios, ainda
+
+272
+00:17:55,502 --> 00:18:00,138
+não estamos a ser considerados importantes nestas empresas.
+
+273
+00:18:00,300 --> 00:18:01,028
+Tendo dito isto,
+
+274
+00:18:01,298 --> 00:18:03,474
+quando pensas na parte ética da discussão,
+
+275
+00:18:03,475 --> 00:18:07,280
+acho que o desafio que os designers enfrentam é
+
+276
+00:18:07,281 --> 00:18:09,362
+a tecnologia que avança incrivelmente rápido,
+
+277
+00:18:10,122 --> 00:18:11,423
+se ainda não te estás a manter a par,
+
+278
+00:18:12,177 --> 00:18:15,145
+tens de começar a prestar atenção já
+
+279
+00:18:15,325 --> 00:18:17,266
+porque tens imenso para aprender
+
+280
+00:18:17,446 --> 00:18:21,203
+e acho que isto não devia soar assustador ou, tipo, ameaçador,
+
+281
+00:18:21,448 --> 00:18:26,090
+se isto te diz alguma coisa, tens de lhe dedicar algum tempo e precisas de começar
+
+282
+00:18:27,030 --> 00:18:29,032
+a falar com pessoas que entendam:
+
+283
+00:18:29,133 --> 00:18:31,255
+sistemas de *back-end*, como funcionam,
+
+284
+00:18:31,473 --> 00:18:34,334
+fala com economistas sobre a economia de informação,
+
+285
+00:18:35,054 --> 00:18:37,416
+cria as tuas opiniões, cria opiniões úteis, pelo menos,
+
+286
+00:18:38,216 --> 00:18:39,036
+sobre essas coisas.
+
+287
+00:18:39,037 --> 00:18:41,157
+Portanto acho que há desafios,
+
+288
+00:18:42,065 --> 00:18:45,199
+que este mundo tem vindo a mover-se e a mudar muito rápido
+
+289
+00:18:46,060 --> 00:18:49,375
+e se não te tens mantido a par, é um salto grande a dar.
+
+290
+00:18:50,140 --> 00:18:53,423
+A única forma de praticar design responsável, acho eu,
+
+291
+00:18:54,063 --> 00:18:57,345
+é percebendo a complexidade do mundo em que estamos a operar.
+
+292
+00:18:58,205 --> 00:19:01,127
+O problema com o design neste momento é que reduz essa complexidade,
+
+293
+00:19:01,128 --> 00:19:03,108
+simplifica-a e torna-a banal,
+
+294
+00:19:03,348 --> 00:19:07,370
+porque tem o objetivo muito muito simples de criar bons produtos.
+
+295
+00:19:09,031 --> 00:19:10,331
+Definir o Bom é o problema,
+
+296
+00:19:11,001 --> 00:19:12,252
+projetar melhor é o problema,
+
+297
+00:19:12,253 --> 00:19:13,455
+e eu acho que este é o problema com o design,
+
+298
+00:19:13,456 --> 00:19:17,094
+tem uma visão muito ingénua do que é bom e do que é preferível.
+
+299
+00:19:25,318 --> 00:19:29,083
+Ética e Moralidade, usamos estas duas palavras frequentemente mas sabemos mesmo o que significam?
+
+300
+00:19:29,461 --> 00:19:32,462
+A moralidade foca-se no Bem e Mal absolutos,
+
+301
+00:19:33,182 --> 00:19:36,284
+define o que é proibído, aconselhado ou permitido.
+
+302
+00:19:37,164 --> 00:19:40,085
+Claro que depende da era e do contexto social.
+
+303
+00:19:40,326 --> 00:19:45,208
+Por exemplo, moralidade cristã não era a mesma no século XI ou no século XX
+
+304
+00:19:46,008 --> 00:19:48,009
+e variava entre os países Europeus.
+
+305
+00:19:48,410 --> 00:19:52,231
+Ética é o pensamento fundamental por trás do que signidica agir bem
+
+306
+00:19:52,432 --> 00:19:54,112
+para ti e para os outros.
+
+307
+00:19:54,473 --> 00:19:57,254
+Isto significa que a ética não diz o que está bem ou mal,
+
+308
+00:19:57,434 --> 00:20:00,455
+em vez disso, mostra o caminho que devias tomar para viver melhor.
+
+309
+00:20:01,456 --> 00:20:04,237
+Estas são as três teorias principais que explicam um ato “ético”:
+
+310
+00:20:05,358 --> 00:20:11,000
+Ética da virtude diz que caso um homem tenha características virtuosas, como a honestidade, sabedoria ou coragem,
+
+311
+00:20:11,220 --> 00:20:14,422
+vai ter boas intenções e portanto vai agir de uma forma “ética”.
+
+312
+00:20:16,363 --> 00:01:10,09
+Deontologia foca-se na conduta que deveria ser seguida para que uma ação seja “ética”,
+
+313
+00:20:20,365 --> 00:20:22,306
+independentemente das suas consequências.
+
+314
+00:20:23,146 --> 00:20:27,108
+Por exemplo, deontologia médica obriga os médicos a tratar de todos os paciêntes,
+
+315
+00:20:27,197 --> 00:20:28,249
+quem quer que sejam.
+
+316
+00:20:29,329 --> 00:20:34,091
+Consequencialismo determina se um ato é “ético” ao avaliar as suas consequências.
+
+317
+00:20:34,221 --> 00:20:37,053
+Julga ações baseando-se nos seus resultados observáveis
+
+318
+00:20:37,253 --> 00:20:39,214
+em vez da intenção de quem age,
+
+319
+00:20:39,434 --> 00:20:42,135
+que seria mais difícil de saber ou provar.
+
+320
+00:20:43,376 --> 00:20:46,077
+Por vezes é difícil distinguir a ética da moralidade
+
+321
+00:20:46,277 --> 00:20:48,118
+pois estão intrinsecamente ligadas.
+
+322
+00:20:48,472 --> 00:20:51,194
+Pode-se dizer que a ética tende a ser universal
+
+323
+00:20:51,400 --> 00:20:54,227
+mas re-interpreta constantemente qual é a melhor forma de viver
+
+324
+00:20:54,401 --> 00:20:55,382
+para ti e para os outros.
+
+325
+00:20:56,242 --> 00:20:59,003
+A moralidade define um conjunto de regras e normas
+
+326
+00:20:59,163 --> 00:21:03,245
+que só são relevantes para um indivíduo ou grupo social num dado momento.
+
+327
+00:21:08,185 --> 00:21:10,449
+Em primeiro lugar vejo a Ética como um processo,
+
+328
+00:21:11,369 --> 00:21:14,291
+acho que é um processo segundo o qual
+
+329
+00:21:15,131 --> 00:21:18,064
+entendemos como o mundo deveria ser.
+
+330
+00:21:18,253 --> 00:21:21,454
+Portanto acho que se a ciência nos diz que as coisas são desta forma no mundo,
+
+331
+00:21:21,455 --> 00:21:24,264
+a Ética nos diz que esta é a forma como as coisas deviam ser.
+
+332
+00:21:26,159 --> 00:21:30,018
+Acho que tem uma série de reflexos no design,
+
+333
+00:21:30,158 --> 00:21:34,020
+mas penso que o design nos diz o que podemos fazer e mesmo o que queremos fazer
+
+334
+00:21:34,240 --> 00:21:37,154
+mas não nos diz o que devemos fazer e penso que isso é uma
+
+335
+00:21:37,382 --> 00:21:39,063
+competência única da Ética.
+
+336
+00:21:39,295 --> 00:21:42,410
+Sobre a questão do Bom, sabemos o que é um bom programa informático
+
+337
+00:21:43,024 --> 00:21:45,306
+porque sabemos que um bom programa informático é um programa
+
+338
+00:21:45,442 --> 00:21:47,367
+que executa o seu código corretamente,
+
+339
+00:21:48,107 --> 00:21:49,388
+que não dá erros,
+
+340
+00:21:50,268 --> 00:21:52,024
+que não dá problemas ao funcionar.
+
+341
+00:21:52,289 --> 00:21:57,171
+Por outro lado, se tivéssemos de definir um bom programa do ponto de vista moral
+
+342
+00:21:57,176 --> 00:21:58,132
+o que seria?
+
+343
+00:21:58,312 --> 00:22:00,288
+Quais seriam os critérios que lhe dariamos
+
+344
+00:22:01,073 --> 00:22:03,394
+e como avaliariamos esses critérios?
+
+345
+00:22:04,195 --> 00:22:05,412
+Seria um bom programa informático?
+
+346
+00:22:06,156 --> 00:22:09,457
+Seria um bom software? Seria uma boa aplicação?
+
+347
+00:22:10,298 --> 00:22:16,336
+Será que vai aumentar o bem estar do máximo de seres humanos?
+
+348
+00:22:17,181 --> 00:22:19,442
+E nesse caso quais seriam os critérios deste bem estar?
+
+349
+00:22:20,162 --> 00:22:22,248
+Quais seriam os critérios de um ponto de vista técnico
+
+350
+00:22:22,364 --> 00:22:25,385
+exatamente para favorecer
+
+351
+00:22:26,105 --> 00:22:32,128
+o bem estar, a abertura, a criatividade, a autonomia do utilizador?
+
+352
+00:22:32,368 --> 00:22:35,193
+Então, a minha primeira questão foi “a Ética pode ser informatizada?”
+
+353
+00:22:35,350 --> 00:22:40,058
+e a um certo ponto já era mais... portanto fiz um projeto sobre veículos autónomos
+
+354
+00:22:40,132 --> 00:22:43,113
+em que estava a tentar encontrar...
+
+355
+00:22:43,293 --> 00:22:46,375
+Estava a confrontar diferentes veículos com o dilema do elétrico,
+
+356
+00:22:46,376 --> 00:22:48,070
+uma espécie de dilema do elétrico.
+
+357
+00:22:50,366 --> 00:22:54,319
+Então, se um carro for confrontado com um acidente
+
+358
+00:22:55,419 --> 00:22:58,000
+não existe propriamente uma solução.
+
+359
+00:22:58,140 --> 00:23:01,402
+Digamos que tens de escolher entre três pessoas e duas pessoas,
+
+360
+00:23:02,282 --> 00:23:05,044
+que tipo de Ética tens de lhes aplicar?
+
+361
+00:23:07,225 --> 00:23:11,327
+E neste ponto torna-se uma questão de design
+
+362
+00:23:13,317 --> 00:23:19,130
+porque tens de te questionar que tipo de ética vais implementar neste carro
+
+363
+00:23:19,291 --> 00:23:24,093
+e quem é que vai decidir que tipo de ética deveria estar no interior deste carro,
+
+364
+00:23:25,093 --> 00:23:27,216
+sabendo que este carro vai trabalhar para
+
+365
+00:23:28,035 --> 00:23:30,396
+uma série de pessoas diferentes com culturas diferentes.
+
+366
+00:23:31,196 --> 00:23:35,398
+E depois o problema tornou-se ainda mais complicado, digamos que o carro
+
+367
+00:23:36,319 --> 00:23:38,300
+é fabricado, digamos pela BMW,
+
+368
+00:23:40,141 --> 00:23:42,422
+como um carro com uma ética que funciona bem na Alemanha,
+
+369
+00:23:43,142 --> 00:23:46,404
+mas a BMW exporta muitos dos seus carros, digamos para a China
+
+370
+00:23:47,144 --> 00:23:51,366
+portanto a ética vai ter de se a daptar a um contexto como o da China.
+
+371
+00:24:22,161 --> 00:24:24,061
+Isto é o caso dos veículos autónomos, mas
+
+372
+00:24:24,196 --> 00:24:27,043
+se olharmos para produtos como um todo, foi mais como
+
+373
+00:24:27,323 --> 00:24:31,105
+é que algo tão subjetivo como a ética pode ser
+
+374
+00:24:31,345 --> 00:24:34,287
+implementado num produto genéricamente fabricado
+
+375
+00:24:34,467 --> 00:24:36,468
+e como se pode adaptar a diferentes contextos.
+
+376
+00:24:37,150 --> 00:24:40,109
+Finalmente penso que em todas estas tendências ligadas ao design
+
+377
+00:24:40,110 --> 00:24:42,039
+exite algo que tem muita, muita força
+
+378
+00:24:42,451 --> 00:24:45,432
+que é a necessidade das empresas que impulsionam estas tendências
+
+379
+00:24:46,152 --> 00:24:49,014
+e o papel do designer é seguir ou influênciar isso
+
+380
+00:24:50,054 --> 00:24:51,075
+ou não incorrer, pelo menos.
+
+381
+00:24:51,255 --> 00:24:55,337
+Portanto, sempre que somos levados por um caminho particular
+
+382
+00:24:55,338 --> 00:24:59,018
+temos tentado, em vez de sair por estar em rutura,
+
+383
+00:24:59,118 --> 00:25:02,440
+dizer “okay, acham que essa é a vossa necessidade”
+
+384
+00:25:02,460 --> 00:25:06,182
+“mas se vos influenciarmos a seguir por ali estão ou não dispostos a seguir?”
+
+385
+00:25:07,082 --> 00:25:09,043
+O que eu acho formidável
+
+386
+00:25:09,203 --> 00:25:11,204
+é que desde há 3-4 anos, a profissão mudou compleamente,
+
+387
+00:25:11,205 --> 00:25:14,106
+isto é, nós, as equipas, mudámos completamente
+
+388
+00:25:14,210 --> 00:25:21,092
+porque se quisermos fazer bom design numa empresa, qualquer que ela seja, pública, privada, grande ou pequena,
+
+389
+00:25:21,469 --> 00:25:24,062
+na nossa opinião deve faver
+
+390
+00:25:24,351 --> 00:25:30,113
+esta capacidade de trabalhar em serviços, trabalhar em *UX*, trabalhar em arquitetura, trabalhar em formação,
+
+391
+00:25:30,217 --> 00:25:35,158
+de trabalhar com a parte cultural das empresas, a parte económica da cultura
+
+392
+00:25:35,370 --> 00:25:37,017
+quer dizer, de ser muito mais global,
+
+393
+00:25:37,197 --> 00:25:40,344
+e é uma grande oportunidade porque estamos nos níveis
+
+394
+00:25:41,359 --> 00:25:44,360
+de responsabilidade nos projetos que são exatamente o que queremos.
+
+395
+00:25:44,948 --> 00:25:47,337
+Se olhares, de um ponto de vista histórico, para o papel do design,
+
+396
+00:25:47,573 --> 00:25:51,633
+o design é uma disciplina baseada em serviços
+
+397
+00:25:52,092 --> 00:25:55,512
+e é por isso que os designers vão para de onde vem o dinheiro,
+
+398
+00:25:56,221 --> 00:25:58,598
+se alguém os contratar para fazer qualquer coisa, eles fazem.
+
+399
+00:25:59,140 --> 00:26:02,727
+E muito frequentemente o design é para estímular o negócio,
+
+400
+00:26:03,186 --> 00:26:04,888
+é para estímular a economia,
+
+401
+00:26:05,730 --> 00:26:11,695
+e muitas das ideias que os designers podem, de novo, potencialmente ter
+
+402
+00:26:14,823 --> 00:26:18,076
+podem trazer mudança social, mas na prática
+
+403
+00:26:18,702 --> 00:26:21,037
+são contratados para vender mais coisas,
+
+404
+00:26:23,344 --> 00:26:24,624
+para aumentar o consumismo.
+
+405
+00:26:26,263 --> 00:26:28,670
+A maior parte dos designers que trabalham em novos produtos
+
+406
+00:26:29,462 --> 00:26:32,757
+não trazem nada de novo, mas tentam aumentar as vendas de algo novo,
+
+407
+00:26:32,966 --> 00:26:37,020
+trazem, sei lá, a obsolescência psicológica dos objetos é parte dos objetos,
+
+408
+00:26:37,137 --> 00:26:38,873
+a razão porque precisamos de
+
+409
+00:26:39,639 --> 00:26:43,852
+carros novos, sapatos novos, roupas novas é para sentires que as velhas não são adequadas,
+
+410
+00:26:44,352 --> 00:26:45,478
+o que muitas vezes não é o caso,
+
+411
+00:26:45,854 --> 00:26:49,107
+não precisas de estar sempre a substituir tudo.
+
+412
+00:26:54,863 --> 00:26:58,505
+A ideia de que a tecnologia melhora as nossas vidas,
+
+413
+00:27:01,286 --> 00:27:03,872
+falei disto há pouco, mas
+
+414
+00:27:04,482 --> 00:27:06,207
+o design está mesmo no centro disso.
+
+415
+00:27:06,583 --> 00:27:09,169
+Se eu trabalhar para uma empresa e estiver a desenvolver um produto novo,
+
+416
+00:27:09,262 --> 00:27:12,047
+esse produto vai ser melhor que a versão anterior
+
+417
+00:27:13,418 --> 00:27:17,052
+e o estilo de vida que vou ter como resultado de possuir este produto vai ser
+
+418
+00:27:17,761 --> 00:27:21,181
+um estilo de vida mais agradável que aquele que teria se não tivesse o produto.
+
+419
+00:27:21,775 --> 00:27:25,256
+Portanto torna-se impossível para alguém que esteja a desenvolver um produto novo
+
+420
+00:27:25,477 --> 00:27:31,300
+dizer que esse produto vai ser fantástico mas que podia dar para o torto destas formas.
+
+421
+00:27:37,656 --> 00:27:40,326
+Quando travalhava para a Google nos EUA
+
+422
+00:27:40,747 --> 00:27:44,376
+tive a perceção de que
+
+423
+00:27:44,992 --> 00:27:48,124
+havia mais tecnologia na minha vida do que até então
+
+424
+00:27:49,292 --> 00:27:53,171
+mas que por alguma razão parecia-me mais difícil fazer tudo aquilo que queria fazer.
+
+425
+00:27:53,512 --> 00:27:57,008
+Senti que havia algo profundamente errado com a situação
+
+426
+00:27:57,413 --> 00:27:59,824
+porque se a tecnologia serve para algo
+
+427
+00:28:00,261 --> 00:28:03,725
+parece-me que será para nos ajudar a viver melhor, fazer o que queremos fazer melhor
+
+428
+00:28:04,006 --> 00:28:06,510
+atingir os nossos objetivos, viver segundo os nossos valores.
+
+429
+00:28:06,725 --> 00:28:10,139
+Estou a pensar no Bruno Latour, que descrevia
+
+430
+00:28:10,769 --> 00:28:16,611
+várias formas segundo as quais os objetos técnicos determinam os nossos comportamentos:
+
+431
+00:28:17,737 --> 00:28:20,736
+há objetos que forçam, que vão forçar ações, como os torniquetes no metro,
+
+432
+00:28:21,825 --> 00:28:26,788
+há objetos que nos vão persuadir, como os radares na estrada
+
+433
+00:28:27,372 --> 00:28:32,961
+e os objetos que nos vão seduzir ou influenciar o nosso comportamento sem que nos seja racional.
+
+434
+00:28:33,670 --> 00:28:43,054
+Por exemplo – tiramos muitos exemplos da estrada – uma estrada que seja reta por vários quilómetros vai-nos incitar a conduzir mais rápido,
+
+435
+00:28:44,271 --> 00:28:47,475
+é uma influência no nosso comportamento que não é racional.
+
+436
+00:28:48,143 --> 00:28:49,894
+Podem ver agora que não tenho as mãos no volante,
+
+437
+00:28:51,354 --> 00:28:54,232
+não requer que lhe esteja sempre a dar toques nem nada que se pareca.
+
+438
+00:28:54,816 --> 00:28:57,028
+Se fores a uma escola secundária agora,
+
+439
+00:28:58,236 --> 00:29:02,031
+toda a gente que não esteja em aulas está assim,
+
+440
+00:29:02,708 --> 00:29:03,825
+e a fazer *scroll*,
+
+441
+00:29:04,659 --> 00:29:07,676
+e as endorfinas que as pessoas recebem da
+
+442
+00:29:08,079 --> 00:29:10,582
+enchente de gostos que recebem numa *selfie*.
+
+443
+00:29:10,583 --> 00:29:16,129
+Quer dizer, estou a criticar mas estou a generalizar.
+
+444
+00:29:16,755 --> 00:29:18,214
+Mas alguém projetou isto
+
+445
+00:29:18,715 --> 00:29:20,967
+e alguém desenhou a experiência que estás a ter,
+
+446
+00:29:21,301 --> 00:29:23,178
+alguém desenhou os likes.
+
+447
+00:29:23,845 --> 00:29:29,493
+E eles estiveram em reuniões e apresentações e sessões de pesquisa de utilizador,
+
+448
+00:29:29,976 --> 00:29:32,353
+e percebem o efeito que isto tem nas pessoas.
+
+449
+00:29:33,354 --> 00:29:37,192
+Mas ainda assim é esse o tipo de design que estamos a instigar.
+
+450
+00:29:38,046 --> 00:29:40,965
+Na situação política...
+
+451
+00:29:41,634 --> 00:29:44,115
+na situação política em que estamos,
+
+452
+00:29:44,741 --> 00:29:49,496
+acho que seria errado que os designers continuassem
+
+453
+00:29:50,079 --> 00:29:53,666
+a criar experiências de solidão digital,
+
+454
+00:29:53,667 --> 00:29:58,613
+a ideia de que estamos sozinhos no mundo com o nosso aparelho tecnológico e de que não temos impacto nenhum.
+
+455
+00:29:58,963 --> 00:29:59,586
+Por exemplo
+
+456
+00:30:01,925 --> 00:30:04,755
+em *newsfeeds* infinitos como o do twitter ou o do facebook,
+
+457
+00:30:06,362 --> 00:30:09,923
+o que... essencialmente, o mecanismo psicológico é o mesmo que se usa em *slot machines*.
+
+458
+00:30:09,924 --> 00:30:11,959
+É uma espécie de aleatorização da recompensa,
+
+459
+00:30:14,048 --> 00:30:18,233
+porque se pensares sobre um *feed* infinito é como um fluxo constante de recompensas que nunca acaba,
+
+460
+00:30:19,216 --> 00:30:20,443
+recompensas de informação,
+
+461
+00:30:22,153 --> 00:30:26,698
+e quando fazes *scroll* para baixo, quando puxas para atualizar, é como se estivesses a puxar a alavanca da *slot machine*.
+
+462
+00:30:41,714 --> 00:30:45,176
+Basicamente, por privilegiar os nossos impulsos em vez das nossas intenções,
+
+463
+00:30:46,177 --> 00:30:48,329
+coisas como *feeds* infinitos,
+
+464
+00:30:49,507 --> 00:30:53,101
+comtribuem... selecionam um conjunto de reações impulsivas
+
+465
+00:30:53,351 --> 00:30:55,270
+e acho que na política a indignação é uma dessas.
+
+466
+00:30:55,895 --> 00:30:59,816
+Mas claro que eventualmente há outras que são positivas como... a admiração
+
+467
+00:31:00,567 --> 00:31:02,838
+ou a ternura, ou fotos de gatinhos fofos.
+
+468
+00:31:06,364 --> 00:31:09,450
+Mas não acho que seja uma questão de “vamos ficar indignados ou vamos
+
+469
+00:31:10,702 --> 00:31:11,911
+“ficar espantados?”
+
+470
+00:31:12,287 --> 00:31:16,708
+é mais algo do como “será que isso nos vai levar àquilo a que queremos chegar?”
+
+471
+00:31:16,958 --> 00:31:23,274
+Será que vão, como Aldous Huxley disse, ajudar-nos a ser irracionais de uma forma razoável?
+
+472
+00:31:23,631 --> 00:31:26,515
+“Estará o sistema mesmo do nosso lado?” acho que é essa a questão principal.
+
+473
+00:31:41,723 --> 00:31:45,075
+Na verdade, agora estou a trabalhar em projetos que são completamente
+
+474
+00:31:45,778 --> 00:31:47,790
+contra os meus principios...
+
+475
+00:31:50,199 --> 00:31:51,200
+ou o que estudei antes.
+
+476
+00:31:53,453 --> 00:31:59,626
+Um dos projetos mais recentes em que tive de trabalhar era um robô para entregas de pizza,
+
+477
+00:32:00,137 --> 00:32:02,629
+para a Pizza Hut+ em Xangai.
+
+478
+00:32:05,973 --> 00:32:09,469
+E claro, desenvolves este robô, ou participas no seu desenvolvimento,
+
+479
+00:32:09,470 --> 00:32:11,930
+e sabes que vai afetar imensas pessoas,
+
+480
+00:32:11,931 --> 00:32:16,684
+há muita gente na China sem acesso a uma boa educação
+
+481
+00:32:16,935 --> 00:32:19,146
+e dependem de,
+
+482
+00:32:20,521 --> 00:32:23,316
+para alimentar as famílias, de pequenos trabalhos, por exemplo em restaurantes.
+
+483
+00:32:23,691 --> 00:32:25,985
+E sabes que este robô,
+
+484
+00:32:26,687 --> 00:32:31,532
+quando for lançado no mercado vai fazer com que muita gente perca o trabalho.
+
+485
+00:32:32,784 --> 00:32:35,870
+Mas por outro lado, se eu não o fizer não recebo o meu salário.
+
+486
+00:32:40,041 --> 00:32:43,039
+E é por isso que esta questão da ética é importante,
+
+487
+00:32:43,040 --> 00:32:45,964
+muitas pessoas... muitos designers que falam de ética,
+
+488
+00:32:47,840 --> 00:32:50,984
+claro, talvez tenham algum tipo de princípio ético e tudo mais, mas
+
+489
+00:32:52,553 --> 00:32:57,642
+quanto estás disposto a sacrificar-te para realmente aplicar os teus princípios?
+
+490
+00:32:58,351 --> 00:33:01,062
+E acho que esse é um grande problema na área do design.
+
+491
+00:33:01,392 --> 00:33:04,917
+Talvez o exemplo canónico aqui seja o banco
+
+492
+00:33:06,442 --> 00:33:11,823
+que é feito para previnir que pessoas que vivam na rua durmam nele.
+
+493
+00:33:12,891 --> 00:33:17,078
+Quando fiz este projeto sobre designers e etnografia
+
+494
+00:33:18,371 --> 00:33:22,709
+entrevistei um designer que trabalhava na empresa de transportes públicos de Paris
+
+495
+00:33:23,459 --> 00:33:25,586
+e ele disse “sim, tive de desenhar aquele banco,
+
+496
+00:33:26,212 --> 00:33:29,340
+“pediram-me que criasse um banco em que as pessoas não pudessem dormir
+
+497
+00:33:30,049 --> 00:33:32,468
+“para que não houvessem sem-abrigos no banco”
+
+498
+00:33:32,941 --> 00:33:37,223
+Ok, isso é um bocado complicado do ponto de vista da tua ética,
+
+499
+00:33:37,737 --> 00:33:38,558
+o que achas?
+
+500
+00:33:38,559 --> 00:33:40,682
+“Claro... Bem, tinha duas opções,
+
+501
+00:33:41,894 --> 00:33:44,272
+“ou o fazia, ou era despedido”.
+
+502
+00:33:44,814 --> 00:33:48,901
+É esse o tipo de fronteira, de limite extremo
+
+503
+00:33:48,902 --> 00:33:52,037
+em que os designers se encontram,
+
+504
+00:33:52,280 --> 00:33:55,742
+podem exercer a sua perspetiva estratégica
+
+505
+00:33:56,367 --> 00:33:58,797
+ou não lhes é permitido fazer muito mais que
+
+506
+00:33:59,866 --> 00:34:02,206
+dizer “sim, ok, vou fazer o banco”.
+
+507
+00:34:02,957 --> 00:34:05,880
+É uma escolha difícil. Mais uma vez, é mais fácil para mim agora,
+
+508
+00:34:07,336 --> 00:34:10,339
+claro que no início era mais difícil porque estás mais dependente,
+
+509
+00:34:10,340 --> 00:34:13,634
+agora temos trabalho suficiente, por isso posso ser mais seletivo.
+
+510
+00:34:14,302 --> 00:34:18,505
+No início tive a sorte de
+
+511
+00:34:19,892 --> 00:34:23,144
+tínhamos trabalho a vir do setor cultural, em que as escolhas são menos difíceis,
+
+512
+00:34:24,771 --> 00:34:29,150
+e agora posso fazer estas escolhas, após 15 ou 17 anos de trabalho
+
+513
+00:34:29,483 --> 00:34:32,487
+porque construiste a tua posição neste lugar.
+
+514
+00:34:33,196 --> 00:34:36,532
+Acho que todas as escolhas que fazes voltam a ti de alguma maneira, mais cedo ou mais tarde,
+
+515
+00:34:36,908 --> 00:34:40,119
+se te envolveres com algum tipo de produto estranho
+
+516
+00:34:40,870 --> 00:34:44,332
+também vai voltar a ti, vais ter mais trabalhos do género, o princípio aqui é
+
+517
+00:34:44,749 --> 00:34:46,209
+o que quer que faças, vais voltar a fazer.
+
+518
+00:34:46,709 --> 00:34:48,294
+Portanto se começares a fazer algo com que não concordas
+
+519
+00:34:48,294 --> 00:34:51,902
+provavelmente vais começar a receber mais pedidos para o fazer uma e outra vez
+
+520
+00:34:51,903 --> 00:34:55,369
+e as pessoas tornam-se especialistas em fazer este tipo de coisa.
+
+521
+00:34:55,676 --> 00:34:57,136
+Depois também há um trabalho
+
+522
+00:34:57,720 --> 00:35:00,800
+de dar um passo atrás e de criticar e de saber dizer não 
+
+523
+00:35:01,432 --> 00:35:06,479
+ou de saber reformular as ordens que são consideradas antiéticas, 
+
+524
+00:35:06,896 --> 00:35:10,108
+ou contraditórias ou que não sirvam os cidadãos.
+
+525
+00:35:11,067 --> 00:35:13,736
+E aqui tenho de dizer que cabe a cada designer saber
+
+526
+00:35:14,237 --> 00:35:18,241
+aonde se posiciona entre a sua sobrevivência económica
+
+527
+00:35:19,266 --> 00:35:21,744
+e o seu desejo, o seu militantismo profissional
+
+528
+00:35:21,994 --> 00:35:26,207
+que é desenvolver um projeto ao lado do utilizador ou ao lado do empregador.
+
+529
+00:35:41,252 --> 00:35:44,684
+O design passa-se num vácuo muito frequentemente,
+
+530
+00:35:45,143 --> 00:35:48,146
+em que passamos o nosso tempo todo a pensar na forma,
+
+531
+00:35:48,563 --> 00:35:52,191
+materialidade, função, em como interagimos com a coisa
+
+532
+00:35:52,192 --> 00:35:55,611
+mas quase sempre numa bolha.
+
+533
+00:35:56,529 --> 00:35:59,949
+É muito raro pensarmos no que está fora desta bolha,
+
+534
+00:36:00,324 --> 00:36:03,202
+sobre as vidas reais, sobre os sistemas reais em que as pessoas vivem
+
+535
+00:36:04,453 --> 00:36:06,956
+e como consequência, é aqui que aparecem os problemas.
+
+536
+00:36:08,124 --> 00:36:11,919
+Porque temos de pensar no mundo em que os nossos produtos existem
+
+537
+00:36:12,253 --> 00:36:15,381
+e a complexidade é tanta quanto a com que conseguimos lidar
+
+538
+00:36:16,132 --> 00:36:18,094
+porque são incrivelmente complicados.
+
+539
+00:36:19,886 --> 00:36:22,471
+E recentemente deparei-me com isto, exatamente com este problema
+
+540
+00:36:23,681 --> 00:36:24,724
+numa concersa com
+
+541
+00:36:25,892 --> 00:36:31,022
+provavelmente um dos designers mais talentosos que conheço, um designer de produto.
+
+542
+00:36:31,814 --> 00:36:34,013
+Ele tinha trabalhado numa empresa pequena em Londres
+
+543
+00:36:35,193 --> 00:36:37,695
+desde que acabou o curso na RCA, estávamos no mesmo ano.
+
+544
+00:36:38,321 --> 00:36:44,535
+Tinha acabado de aceitar um trabalho da Amazon como diretor de design de produto
+
+545
+00:36:45,411 --> 00:36:49,457
+e estava a falar com ele sobre estas ideias da ética e da responsabilidade
+
+546
+00:36:49,458 --> 00:36:51,209
+porque estou ligeiramente
+
+547
+00:36:52,835 --> 00:36:56,088
+preocupado com algumas das coisas que a Amazon anda a fazer.
+
+548
+00:36:56,195 --> 00:36:57,119
+Alexa,
+
+549
+00:36:58,841 --> 00:37:00,218
+mentiras-me?
+
+550
+00:37:01,467 --> 00:37:03,158
+Tento sempre dizer a verdade,
+
+551
+00:37:03,679 --> 00:37:07,516
+não acerto sempre, mas nunca mentirei intencionalmente. Nem a ti nem a qualquer outra pessoa.
+
+552
+00:37:09,101 --> 00:37:11,536
+E ele ficou chocado que eu pudesse estar a questionar
+
+553
+00:37:12,188 --> 00:37:13,487
+o valor do que estava a fazer.
+
+554
+00:37:13,940 --> 00:37:17,360
+Acha que está a trazer contribuições fantásticas para o mundo,
+
+555
+00:37:17,361 --> 00:37:19,237
+mas está a pensar na bolha dele,
+
+556
+00:37:20,196 --> 00:37:22,698
+está a pensar nos produtos lindos que faz
+
+557
+00:37:23,074 --> 00:37:25,433
+e é este o perigo no design.
+
+558
+00:37:33,628 --> 00:37:35,253
+Se repensares as coisas a partir da base
+
+559
+00:37:35,628 --> 00:37:38,256
+consegues fazer algo completamente diferente
+
+560
+00:37:38,756 --> 00:37:40,091
+e a revista está na...
+
+561
+00:37:41,175 --> 00:37:43,993
+as finanças, a distribuição, a produção, é tudo mais ou menos...
+
+562
+00:37:45,513 --> 00:37:47,224
+pareceu, “ok, se vais fazer uma revista nova,”
+
+563
+00:37:47,515 --> 00:37:51,560
+“não temos de partir de nenhuma plataforma ou planos antigos”
+
+564
+00:37:51,852 --> 00:37:53,095
+“podemos simplesmente cria-la do zero.”
+
+565
+00:37:54,182 --> 00:37:56,176
+Acho muito importante
+
+566
+00:37:56,181 --> 00:38:00,736
+fazer com que os designers percebam o valor das humanidades e das ciências sociais
+
+567
+00:38:01,570 --> 00:38:04,907
+ao mostrar que, por exemplo, se olhares para a história
+
+568
+00:38:05,950 --> 00:38:08,096
+da técnologia, por exemplo deste tipo de produto
+
+569
+00:38:08,619 --> 00:38:10,955
+pode mostrar-te que as coisas eram diferentes no passado.
+
+570
+00:38:11,247 --> 00:38:14,542
+Portanto usar esta compreensão do que era diferente no passado
+
+571
+00:38:15,042 --> 00:38:19,964
+é uma maneira de tornar os designers conscientes de que as coisas podem vir a ser diferentes no futuro
+
+572
+00:38:20,172 --> 00:38:23,551
+e que talvez possas fazer escolhas mais éticas
+
+573
+00:38:23,801 --> 00:38:24,760
+isso é a história.
+
+574
+00:38:25,032 --> 00:38:27,972
+A antropologia mostra que em culturas diferentes,
+
+575
+00:38:28,431 --> 00:38:30,786
+em sítios diferentes, em territórios diferentes no mundo,
+
+576
+00:38:31,126 --> 00:38:34,838
+há formas diferentes de viver, e ao mostrar isso
+
+577
+00:38:35,646 --> 00:38:40,485
+é também uma forma de questionar um *brief* de design, questionar um produto, questionar os serviços que existem.
+
+578
+00:38:40,841 --> 00:38:43,654
+Eu uso este tipo de exemplo. Da história:
+
+579
+00:38:44,405 --> 00:38:45,937
+como as coisas foram diferentes no passado.
+
+580
+00:38:46,365 --> 00:38:48,808
+Da antropologia: como as coisas são diferentes noutros sítios,
+
+581
+00:38:49,243 --> 00:38:52,413
+como uma forma de... bem, como uma espécie de metáfora
+
+582
+00:38:53,497 --> 00:38:55,583
+para pensar sobre como a educação de design devia
+
+583
+00:38:56,042 --> 00:39:00,880
+formar mentalidades e não necessáriamente criar designers que
+
+584
+00:39:01,127 --> 00:39:04,008
+respondem ao cliente de uma forma que
+
+585
+00:39:04,884 --> 00:39:06,483
+seria uma espécie de status quo.
+
+586
+00:39:07,470 --> 00:39:10,447
+Precisamos de manter uma mente curiosa se quisermos
+
+587
+00:39:11,057 --> 00:39:13,917
+viver num futuro próximo mais habitável.
+
+588
+00:39:24,195 --> 00:39:25,904
+Acredito que precisamos
+
+589
+00:39:26,614 --> 00:39:30,242
+que mais organizações comecem a falar sobre, e a partilhar
+
+590
+00:39:30,618 --> 00:39:33,454
+alguns dos padrões que estão a explorar e a criar,
+
+591
+00:39:33,746 --> 00:39:38,250
+porque há uma janela de oportunidade neste momento para arranjar alguns padrões éticos,
+
+592
+00:39:38,542 --> 00:39:41,420
+quer sejam sobre privacidade ou segurança ou transparência,
+
+593
+00:39:41,921 --> 00:39:44,965
+para que as pessoas, as gerações vindouras, copiarem.
+
+594
+00:39:45,883 --> 00:39:49,720
+Por exemplo se pensares numa janela de pagamento com cartão de crédito num serviço online, nunca vês versões muito diferentes,
+
+595
+00:39:50,137 --> 00:39:56,811
+e se eu te pedir agora para me desenhares um serviço de cartão de crédito,
+
+596
+00:39:57,103 --> 00:40:00,398
+vais imaginar o que usaste a semana passada e copia-lo mais ou menos.
+
+597
+00:40:00,981 --> 00:40:03,150
+Os designers são mesmo bons a copiar-se uns aos outros.
+
+598
+00:40:03,734 --> 00:40:07,530
+Mas quando se trata de ética, não acho que tenhamos nenhuns planos para copiar.
+
+599
+00:40:08,322 --> 00:40:11,951
+Portanto acho que há uma janela de oportunidade, uma oportunidade muito entusiasmante,
+
+600
+00:40:12,326 --> 00:40:15,496
+que é fazer alguns destes padrões e guias para as pessoas seguirem,
+
+601
+00:40:15,996 --> 00:40:19,041
+e isso é um desafio bastante grande. Porque sem estes padrões,
+
+602
+00:40:19,375 --> 00:40:22,086
+é mais caro, é mais demorado
+
+603
+00:40:23,337 --> 00:40:25,172
+incluir a ética no teu trabalho
+
+604
+00:40:25,423 --> 00:40:26,924
+e isso não significa que não o devas fazer
+
+605
+00:40:27,258 --> 00:40:29,176
+é só que as barreiras existem
+
+606
+00:40:29,718 --> 00:40:31,637
+e há mais obstáculos a ultrapassar.
+
+607
+00:40:33,200 --> 00:40:36,725
+E acho que quanto mais difícil é o universo,
+
+608
+00:40:37,351 --> 00:40:41,023
+quanto mais o universo parece reticente a uma prática crítica do design,
+
+609
+00:40:41,355 --> 00:40:42,648
+mais interessante é.
+
+610
+00:40:43,399 --> 00:40:46,694
+Porque se chegas, isto é o que contamos várias vezes, se chegas a uma empresa grande,
+
+611
+00:40:46,902 --> 00:40:49,655
+que, de qualquer forma, parece muito difícil de operar,
+
+612
+00:40:50,114 --> 00:40:55,077
+se a conseguires influenciar 1% ou 2% no primeiro ano,
+
+613
+00:40:55,744 --> 00:40:57,496
+em 5 anos se ainda estiveres lá já fizeste muito,
+
+614
+00:40:58,164 --> 00:41:02,001
+é imenso, e ficas com o sentimento de que com um pouco de influência
+
+615
+00:41:02,001 --> 00:41:05,212
+consegues fazer muito num barco enorme, o que eu acho interessante.
+
+616
+00:41:06,213 --> 00:41:09,008
+Então, o que acontece se o design começar a passar-se localmente
+
+617
+00:41:09,009 --> 00:41:12,094
+a forma como estamos a falar de consumir energia localmente.
+
+618
+00:41:13,012 --> 00:41:16,281
+É esse o princípio da bateria gravítica, a energia ser algo local,
+
+619
+00:41:16,724 --> 00:41:19,727
+estar mesmo alí, para que consigas ver a energia que estás a consumir,
+
+620
+00:41:20,227 --> 00:41:23,314
+mas também o desenho de um produto que possa ser feito localmente.
+
+621
+00:41:23,689 --> 00:41:25,930
+Fabricantes locais, habilidades locais,
+
+622
+00:41:26,734 --> 00:41:28,861
+usar artesãos locais, talvez,
+
+623
+00:41:30,779 --> 00:41:33,365
+é a ideia de equipamento *open sourse*
+
+624
+00:41:34,116 --> 00:41:35,074
+de partilhar conhecimento,
+
+625
+00:41:35,075 --> 00:41:38,621
+muitos dos *maker labs* ou *maker spaces* estão a falar destas coisas.
+
+626
+00:41:39,121 --> 00:41:41,499
+Eu acho que há um número de coisas que os designers podem fazer,
+
+627
+00:41:42,666 --> 00:41:45,085
+uma das primeiras é criar a consciência
+
+628
+00:41:45,169 --> 00:41:46,879
+de que há um problema.
+
+629
+00:41:47,755 --> 00:41:50,925
+Há muito otimismo na indústria da tecnologia,
+
+630
+00:41:50,926 --> 00:41:52,398
+muito justifica-se,
+
+631
+00:41:53,010 --> 00:41:54,220
+mas muito, acho eu,
+
+632
+00:41:56,055 --> 00:41:58,307
+não é sensível ao que
+
+633
+00:41:59,037 --> 00:42:02,019
+em termos económicos se podem chamar externalidades do design.
+
+634
+00:42:02,645 --> 00:42:05,481
+Coisas como a distração podem ser um exemplo,
+
+635
+00:42:06,941 --> 00:42:08,234
+quer seja um pequeno incómodo ou
+
+636
+00:42:09,485 --> 00:42:12,571
+um vício que desenvolves com o tempo e que te impede de atingires os teus objetivos.
+
+637
+00:42:13,447 --> 00:42:16,951
+Os designers não vêem estas coisas porque não têm como as medir.
+
+638
+00:42:17,409 --> 00:42:20,454
+É quase o que aconteceu com a poluição no ambientalismo.
+
+639
+00:42:21,121 --> 00:42:22,706
+Sabíamos que estávamos a despejar coisas nos rios,
+
+640
+00:42:22,915 --> 00:42:25,918
+sabíamos que havia algum perigo para o ambiente
+
+641
+00:42:27,253 --> 00:42:29,046
+mas só quando começamos a medi-lo e quantifica-lo
+
+642
+00:42:29,588 --> 00:42:31,048
+é que conseguimos começar a falar e a responsabilizar
+
+643
+00:42:32,341 --> 00:42:33,553
+as pessoas qeu estavam a criar a poluição.
+
+644
+00:42:34,301 --> 00:42:35,553
+E acho que a situação agora é semelhante,
+
+645
+00:42:35,761 --> 00:42:40,599
+temos uma noção vaga de que há algo de errado,
+
+646
+00:42:40,933 --> 00:42:43,185
+profundamente, com a distração
+
+647
+00:42:43,644 --> 00:42:45,354
+e a forma com que nos habituamos a
+
+647
+00:42:47,315 --> 00:42:49,487
+estar como não queremos estar.
+
+648
+00:42:50,317 --> 00:42:52,903
+Mas acho que ainda estamos no início
+
+649
+00:42:53,571 --> 00:42:55,030
+da descoberta de como falar e medir isto,
+
+650
+00:42:55,197 --> 00:42:56,282
+mas acho que quando conseguirmos,
+
+651
+00:42:57,199 --> 00:42:59,827
+acho que o objetivo devia ser fazer
+
+652
+00:43:00,661 --> 00:43:03,414
+com o nosso ambiente mental o que fizemos com o nosso ambiente físico
+
+653
+00:43:03,539 --> 00:43:04,748
+com o ambientalismo.
+
+654
+00:43:06,000 --> 00:43:07,960
+E acho que isso envolve
+
+655
+00:43:08,586 --> 00:43:11,422
+novas responsabilidades da parte das empresas e dos designers
+
+656
+00:43:12,256 --> 00:43:16,239
+de não apenas medir o valor do que estão a obter,
+
+657
+00:43:17,136 --> 00:43:19,096
+mas o valor que estão a dar s pessoas e também
+
+658
+00:43:19,972 --> 00:43:23,267
+os potenciais danos ou efeitos negaticos que o design está a causar.
+
+659
+00:43:24,602 --> 00:43:25,477
+À primeira vista,
+
+660
+00:43:25,728 --> 00:43:29,023
+não parece haver relação entre a agricultura e a indústria,
+
+661
+00:43:29,523 --> 00:43:30,941
+mas a indústria polui,
+
+662
+00:43:31,275 --> 00:43:32,518
+e a poluição afeta o cultivo,
+
+663
+00:43:33,444 --> 00:43:36,655
+portanto uma mudança na indústria afeta a agricultura pela poluição.
+
+664
+00:43:37,364 --> 00:43:41,452
+O mundo dos homens consiste de um enorme complexo de relações súbteis como essa.
+
+665
+00:43:42,202 --> 00:43:43,203
+Muda-se uma coisa
+
+666
+00:43:43,495 --> 00:43:45,998
+e inicía-se uma reação de cadeia lenta e complicada.
+
+667
+00:43:47,166 --> 00:43:50,210
+Perceber é mesmo, de certa forma, a chave,
+
+668
+00:43:50,919 --> 00:43:52,348
+se perceberes coisas,
+
+669
+00:43:53,005 --> 00:43:54,465
+respeita-las,
+
+670
+00:43:54,965 --> 00:43:56,383
+e se as respeitas,
+
+671
+00:44:00,804 --> 00:44:02,039
+tomas conta delas
+
+672
+00:44:03,807 --> 00:44:07,019
+e assim não fica tudo perfeito
+
+673
+00:44:07,686 --> 00:44:08,472
+mas fica melhor.
+
+674
+00:44:09,146 --> 00:44:11,148
+A ética da virtude tem a ver com as qualidades
+
+675
+00:44:12,024 --> 00:44:14,068
+que um ou uma boa designer
+
+676
+00:44:14,735 --> 00:44:16,820
+deve integrar,
+
+677
+00:44:18,864 --> 00:44:20,366
+deve dominar 
+
+678
+00:44:22,451 --> 00:44:23,410
+ou praticar
+
+679
+00:44:24,244 --> 00:44:25,663
+para fazer um bom trabalho.
+
+680
+00:44:26,206 --> 00:44:31,126
+Com a exceção, claro, da virtude das competências profissionais, da mestria das ferramentas da profissão
+
+681
+00:44:32,044 --> 00:44:33,045
+que são importantes
+
+682
+00:44:33,629 --> 00:44:35,214
+mas que não são suficientes.
+
+683
+00:44:36,340 --> 00:44:39,385
+Tenho dificuldade em fazer recomendações aos outros,
+
+684
+00:44:39,843 --> 00:44:41,804
+de novo, é o mesmo com qualquer tipo de conselho,
+
+685
+00:44:42,346 --> 00:44:45,683
+acho que o melhor conselho é ser-se cético em relação aos conselhos dos outros,
+
+686
+00:44:46,308 --> 00:44:50,229
+porque hoje acho que há demasiada informação disponível em todo o lado
+
+687
+00:44:50,688 --> 00:44:52,606
+e toda a gente dá respostas claras
+
+688
+00:44:53,023 --> 00:44:55,943
+de como fazer as coisas, há livros sobre como fazer isto, como fazer aquilo.
+
+689
+00:44:56,610 --> 00:44:59,697
+Consegues ver 10 dicas para melhorar o que quer que seja,
+
+690
+00:45:00,531 --> 00:45:03,450
+desde a tua vida sexual até às tuas habilidades de design, até sei lá o quê,
+
+691
+00:45:04,076 --> 00:45:07,287
+acho que as pessoas deviam parar de prestar atenção a estas coisas
+
+692
+00:45:07,579 --> 00:45:09,415
+e começar a prestar atenção a elas mesmas.
+
+693
+00:45:10,416 --> 00:45:12,292
+Portanto acho que desenvolver uma atitude cética
+
+694
+00:45:12,418 --> 00:45:15,254
+em relação aos conselhos das outras pessoas, porque não so relevantes,
+
+695
+00:45:15,379 --> 00:45:16,171
+é a chave.
+
+696
+00:45:16,559 --> 00:45:18,382
+A virtude primordial, que existe desde sempre
+
+697
+00:45:18,383 --> 00:45:21,969
+e que passou por todas as diferentes etapas do Sismo é o diálogo.
+
+698
+00:45:23,762 --> 00:45:25,215
+E amanhã ainda mais,
+
+699
+00:45:27,808 --> 00:45:31,145
+com todas estas ferramentas que nos continuam a isolar em todos os sentidos
+
+700
+00:45:31,483 --> 00:45:34,773
+o papel do designer é criar diálogos, só isso funciona.
+
+701
+00:45:35,357 --> 00:45:38,444
+Quantos mais somos, mais necessidade temos de falar, mais necessidade de 
+
+702
+00:45:39,445 --> 00:45:41,947
+nos entendermos, de aprender a discutir...
+
+703
+00:45:44,423 --> 00:45:47,786
+e o papel de um projeto, por vezes é simplesmente criar um diálogo,
+
+704
+00:45:48,078 --> 00:45:48,746
+não é o resultado,
+
+705
+00:45:49,037 --> 00:45:50,873
+é o diálogo que consegui criar
+
+706
+00:45:51,248 --> 00:45:53,041
+em torno deste projeto
+
+707
+00:45:54,293 --> 00:45:58,380
+e acho que o valor do diálogo está a aumentar em relação ao valor da produção.
+
+708
+00:45:59,381 --> 00:46:02,092
+Passámos de um universo em que
+
+709
+00:46:02,885 --> 00:46:06,180
+o valor do design é o número de peças que consegues vender, no fim,
+
+710
+00:46:06,472 --> 00:46:08,932
+e eu penso que o valor do design será
+
+711
+00:46:10,225 --> 00:46:14,730
+qual a importância do diálogo que conseguiste criar,
+
+712
+00:46:15,022 --> 00:46:17,441
+entre quantas partes,
+
+713
+00:46:17,733 --> 00:46:20,569
+com que diferenças sociais e culturais,
+
+714
+00:46:20,986 --> 00:46:24,948
+em que parcela de território.
+
+715
+00:46:25,324 --> 00:46:27,366
+Diría a curiosidade, para começar.
+
+716
+00:46:27,367 --> 00:46:30,913
+Quer dizer, lembrar-mo-nos que estamos
+
+717
+00:46:31,455 --> 00:46:33,165
+numa disciplina verdadeiramente experimental
+
+718
+00:46:34,291 --> 00:46:38,086
+que pode já nem existir daqui a aulgumas décadas
+
+719
+00:46:38,879 --> 00:46:40,923
+e portanto é importante que nos divertamos,
+
+720
+00:46:41,256 --> 00:46:43,258
+que testemos coisas
+
+721
+00:46:43,842 --> 00:46:47,930
+que tenhamos a audácia de misturar métodos, de testar abordagens.
+
+722
+00:46:48,430 --> 00:46:52,267
+E pronto, é isso a curiosidade profissional
+
+723
+00:46:52,810 --> 00:46:55,938
+e a capacidade de trabalhar com não-designers,
+
+724
+00:46:56,772 --> 00:46:59,358
+é uma virtude verdadeiramente
+
+725
+00:46:59,595 --> 00:47:00,564
+importante.
+
+726
+00:47:01,026 --> 00:47:02,569
+A honestidade, acho eu, ser...
+
+727
+00:47:04,071 --> 00:47:05,038
+Agora sinto que não sou.
+
+728
+00:47:05,489 --> 00:47:08,742
+Por exemplo, estou a trabalhar em projetos que vão contra a minha ética,
+
+729
+00:47:09,076 --> 00:47:13,080
+portanto não quero ir a conferências de design e falar da minha pesquisa.
+
+730
+00:47:14,289 --> 00:47:15,165
+Porque não sinto que tivesse sido
+
+731
+00:47:16,041 --> 00:47:18,752
+acertado falar dela na altura em que a estava a fazer,
+
+732
+00:47:18,919 --> 00:47:20,629
+mas agora não sinto que seja acertado falar dela
+
+733
+00:47:20,630 --> 00:47:24,258
+quando na verdade estou a fazer o oposto
+
+734
+00:47:24,716 --> 00:47:26,110
+daquilo em que acredito.
+
+735
+00:47:26,635 --> 00:47:29,680
+No *blog* temos... tínhamos...
+
+736
+00:47:30,889 --> 00:47:35,185
+é quase um manifesto mas o Philippe Starck aparece num dos nossos desafios,
+
+737
+00:47:36,353 --> 00:47:38,730
+que é livrarmo-nos de tretas vagas de design.
+
+738
+00:47:39,648 --> 00:47:43,485
+O Philippe Starck fala do seu espremedor de limão *Juicy Salif* como...
+
+739
+00:47:45,195 --> 00:47:47,618
+diz que o espremedor de limão *Juicy Salif* não foi feito para,
+
+740
+00:47:48,365 --> 00:47:51,076
+não foi feito para espremer limão mas sim para iniciar conversas.
+
+741
+00:47:52,619 --> 00:47:53,287
+É esta a frase.
+
+742
+00:47:54,329 --> 00:47:58,333
+É um espremedor de limão, não sei que tipo de conversa é que ele espera
+
+743
+00:47:59,209 --> 00:48:02,110
+iniciar com aquele objeto em particular.
+
+744
+00:48:03,171 --> 00:48:05,549
+Não sei se esta é a virtude mais importante, mas
+
+745
+00:48:05,924 --> 00:48:08,176
+é uma que é muito importante para mim neste momento.
+
+746
+00:48:08,886 --> 00:48:12,097
+É... acho que os designers que estão interessados em ética
+
+747
+00:48:12,514 --> 00:48:13,640
+e que querem
+
+748
+00:48:14,391 --> 00:48:16,518
+melhorar o seu trabalho,
+
+749
+00:48:16,810 --> 00:48:21,815
+a virtude que deviam ter ou podiam aprender é estar abertos.
+
+750
+00:48:22,900 --> 00:48:27,279
+Acho que temos tanto a aprender com as comunidades *open-source*
+
+751
+00:48:27,863 --> 00:48:31,700
+que construiram tantas das infraestruturas em que nos apoiamos.
+
+752
+00:48:32,326 --> 00:48:33,201
+Mas também,
+
+753
+00:48:34,161 --> 00:48:36,038
+mesmo agora,
+
+754
+00:48:36,330 --> 00:48:38,415
+é trazer a ética para os produtos digitais
+
+755
+00:48:38,790 --> 00:48:41,585
+que é o meu mundo de ética, é mesmo digital.
+
+756
+00:48:42,669 --> 00:48:44,546
+Há tanto trabalho a ser feito,
+
+757
+00:48:45,464 --> 00:48:46,256
+que se nós
+
+758
+00:48:47,215 --> 00:48:49,801
+fizermos trabalho genial e o mantivermos fechado,
+
+759
+00:48:51,511 --> 00:48:52,433
+vai ter 
+
+760
+00:48:53,430 --> 00:48:57,768
+um impacto limitado no design que vemos à nossa volta.
+
+761
+00:49:01,396 --> 00:49:03,357
+Quer dizer, suponho que uma das virtudes mais importantes para um designer
+
+762
+00:49:03,358 --> 00:49:05,025
+cultivar, é o cuidado,
+
+763
+00:49:05,026 --> 00:49:05,979
+cuidado pelo utilizador.
+
+764
+00:49:06,360 --> 00:49:10,113
+Porque podes ser a melhor designer do mundo tecnicamente,
+
+765
+00:49:10,447 --> 00:49:15,076
+mas se não quiseres saber da pessoa para quem estás a desenhar,
+
+766
+00:49:15,077 --> 00:49:16,477
+a sua vida e o seu sucesso,
+
+767
+00:49:18,830 --> 00:49:21,291
+e teu design realmente efetivo,
+
+768
+00:49:21,458 --> 00:49:24,169
+pode vir a ser efetivo na direção errada, pode tornar a vida deles pior.
+
+769
+00:49:25,212 --> 00:49:26,546
+Eu vejo a ética como...
+
+770
+00:49:28,048 --> 00:49:31,051
+há muita gente vê na ética um travão à inovação,
+
+771
+00:49:31,385 --> 00:49:34,564
+dizem que é só mais um ponto a marcar num documento,
+
+772
+00:49:34,565 --> 00:49:35,514
+é mais uma comissão,
+
+773
+00:49:36,181 --> 00:49:39,101
+mas eu não a vejo tanto como um travão mas sim como um volante
+
+774
+00:49:41,520 --> 00:49:43,605
+se não for mesmo um acelerador, por vezes.
+
+775
+00:49:44,564 --> 00:49:47,359
+Estás a ver, é como uma árvore... tento crescer
+
+776
+00:49:48,318 --> 00:49:50,320
+e quanto mais cresco,
+
+777
+00:49:50,779 --> 00:49:53,198
+mais espaço ocupo, mas não é desperdiçado,
+
+778
+00:49:54,533 --> 00:49:57,536
+ocupo mais espaço para cobrir outras coisas.
+
+779
+00:49:59,121 --> 00:50:00,497
+É como na 
+
+780
+00:50:01,456 --> 00:50:02,582
+natureza, no final de contas.
+
+781
+00:50:09,943 --> 00:50:14,943
+realização e desenvolvimento<br/>Sylvain Julé<br/>direção artística e design gráfico<br/>Clément Le Tulle-Neyret
+
+782
+00:50:14,944 --> 00:50:19,944
+realização, produção e animação<br/>Gauthier Roussilhe<br/>tradução<br/>Elise Leclerc<br/>tradução portuguesa<br/>João Coutinho
+
+783
+00:50:19,945 --> 00:50:24,944
+pós produção e mistra em áudio<br/>Miroslav Pilon<br/>voz<br/>Victoria Stephens<br/>curadoria musical<br/>Sébastien Robert
+
+784
+00:50:24,945 --> 00:50:29,944
+música<br/>S.A.M. - *Baby I'm Sorry, Alone In A Crowd, Two Hearts In Doubt* - DJ Sports - *Phases Of Winds, The Secret Jog Life* - Trux - *Aziol*
+
+785
+00:50:29,945 --> 00:50:32,944
+Obrigado pelo seu tempo.
