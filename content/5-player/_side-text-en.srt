@@ -20,7 +20,7 @@ name:: Thomas Schnur + description:: Product designer, Cologne
 
 7
 00:08:26,957 --> 00:11:13,678
-name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+name:: Peter Biľak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
 
 8
 00:11:13,961 --> 00:11:38,318
@@ -76,7 +76,7 @@ name:: Antoine Fenoglio + description:: Designer and founder of Sismo, Paris
 
 21
 00:25:44,929 --> 00:26:48,858
-name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+name:: Peter Biľak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
 
 22
 00:26:54,644 --> 00:27:29,845
@@ -112,7 +112,7 @@ name:: Nicolas Nova + description:: Associate Professor, HEAD / The Near Future 
 
 30
 00:34:02,643 --> 00:34:55,323
-name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+name:: Peter Biľak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
 
 31
 00:34:55,647 --> 00:35:26,155
@@ -124,7 +124,7 @@ name:: James Auger + description:: Designer and associate professor at M-ITI, Ma
 
 33
 00:37:33,689 --> 00:37:52,948
-name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+name:: Peter Biľak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
 
 34
 00:37:53,191 --> 00:39:13,021
@@ -156,7 +156,7 @@ name:: Alain Findeli + description:: Nimes and Montreal Universities, Projekt la
 
 41
 00:44:36,144 --> 00:45:16,241
-name:: Peter Bil’ak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
+name:: Peter Biľak + description:: Type and graphic designer, founder of Typotheque and editor of Works that Work, The Hague
 
 42
 00:45:16,687 --> 00:46:24,823

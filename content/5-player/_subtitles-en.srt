@@ -812,7 +812,7 @@ more organisations connected to the web as well
 
 205
 00:13:48,418 --> 00:13:53,156
-and there’s more personal data being produced than collected
+and there’s more personal data being produced and collected
 
 206
 00:13:53,194 --> 00:13:55,440
@@ -872,7 +872,7 @@ rather than them going:
 
 220
 00:14:36,394 --> 00:14:40,462
-they’re like “that’s so important I’m so glad to find someone who’s actually looking at this".
+they’re like “that’s so important I’m so glad to find someone who’s actually looking at this”.
 
 221
 00:14:41,402 --> 00:14:46,124
@@ -884,7 +884,7 @@ without question the digital era in
 
 223
 00:14:50,287 --> 00:14:54,029
-in communication technologies will heighten concern
+communication technologies will heighten concern
 
 224
 00:14:54,248 --> 00:14:57,150
@@ -916,7 +916,7 @@ that’s a professional act going too far,
 
 231
 00:15:28,045 --> 00:15:29,389
-are there similar excesses in design ?
+are there similar excesses in design?
 
 232
 00:15:29,390 --> 00:15:34,087
@@ -960,7 +960,7 @@ because they're putting more shit into the world,
 
 242
 00:16:04,036 --> 00:16:07,183
-yes Design is for me a very problematic industry.
+yes, design is for me a very problematic industry.
 
 243
 00:16:08,066 --> 00:16:11,105
@@ -996,7 +996,7 @@ leave the designers interested in people, in field research kind of
 
 251
 00:16:38,226 --> 00:16:39,361
-of partly out of the picture.
+partly out of the picture.
 
 252
 00:16:39,362 --> 00:16:42,120
@@ -1404,7 +1404,7 @@ So my first question was “can Ethics be computable?”
 
 353
 00:22:35,350 --> 00:22:40,058
-and at some point it was more.. so I did a project about autonomous vehicles
+and at some point it was more… so I did a project about autonomous vehicles
 
 354
 00:22:40,132 --> 00:22:43,113
@@ -1424,7 +1424,7 @@ So if the car is confronted to a car crash
 
 358
 00:22:55,419 --> 00:22:58,000
-there’s not  really a proper solution to it.
+there’s not really a proper solution to it.
 
 359
 00:22:58,140 --> 00:23:01,402
@@ -1456,7 +1456,7 @@ a lot of different people with different cultures and so on.
 
 366
 00:23:31,196 --> 00:23:35,398
-And after even the problem was more complicated, let’s say if it’s this car
+And after even the problem was more complicated, let’s say if this car
 
 367
 00:23:36,319 --> 00:23:38,300
@@ -1644,7 +1644,7 @@ The idea that technology improves our lives,
 
 413
 00:27:01,286 --> 00:27:03,872
-I’ve mentioned this point a little while ago but, 
+I’ve mentioned this point a little while ago but,
 
 414
 00:27:04,482 --> 00:27:06,207
@@ -1688,7 +1688,7 @@ there is more technology in my life than ever before
 
 424
 00:27:49,292 --> 00:27:53,171
-but for some reasons that felt harder to do all the things I wanted to do with myself.
+but for some reason it felt harder to do all the things I wanted to do with myself.
 
 425
 00:27:53,512 --> 00:27:57,008
@@ -1788,11 +1788,11 @@ understanding the effect that has on people
 
 449
 00:29:33,354 --> 00:29:37,192
-but yet that the kind of design work we’re pushing out right now.
+but yet that’s the kind of design work we’re pushing out right now.
 
 450
 00:29:38,046 --> 00:29:40,965
-In the political situation
+In the political…
 
 451
 00:29:41,634 --> 00:29:44,115
@@ -1816,7 +1816,7 @@ For instance
 
 456
 00:30:01,925 --> 00:30:04,755
-in infinite newsfeed like on twitter or facebook,
+in infinite newsfeed like on Twitter or Facebook,
 
 457
 00:30:06,362 --> 00:30:09,923
@@ -1976,15 +1976,15 @@ and he told that “yeah I had to design that bench,
 
 496
 00:33:26,212 --> 00:33:29,340
-I was asked to design on which people could not sleep
+I was asked to design a bench on which people could not sleep
 
 497
 00:33:30,049 --> 00:33:32,468
-so they wouldn't be bums on the bench”
+so the're wouldn't be bums on the benches”.
 
 498
 00:33:32,941 --> 00:33:37,223
-ok that’s kind of tricky in terms of your ethics,
+Ok that’s kind of tricky in terms of your ethics,
 
 499
 00:33:37,737 --> 00:33:38,558
@@ -2000,7 +2000,7 @@ I did it or I was just fired”.
 
 502
 00:33:44,814 --> 00:33:48,901
-That’s the kind of boundary of extreme limit
+That’s the kind of boundary or extreme limit
 
 503
 00:33:48,902 --> 00:33:52,037
@@ -2044,11 +2044,11 @@ now over time I can make these choices now after 15 or 17 years of working
 
 513
 00:34:29,483 --> 00:34:32,487
-because you built a position to be this place.
+because you built a position to be in this place.
 
 514
 00:34:33,196 --> 00:34:36,532
-I think every choice you make kind of come back to you sooner or later,
+I think every choice you make kind of comes back to you sooner or later,
 
 515
 00:34:36,908 --> 00:34:40,119
@@ -2056,7 +2056,7 @@ if you engage with some kind of strange product
 
 516
 00:34:40,870 --> 00:34:44,332
-it will come back to you as well, you’ll get more of it, the simple principle here that,
+it will come back to you as well, you’ll get more of it, the simple principle is that,
 
 517
 00:34:44,749 --> 00:34:46,209
@@ -2064,7 +2064,7 @@ whatever you do you get more of it.
 
 518
 00:34:46,709 --> 00:34:48,294
-So if you start something you don’t agree with it
+So if you start doing something you don’t agree with it
 
 519
 00:34:48,294 --> 00:34:51,902
@@ -2116,7 +2116,7 @@ where we spend all of our time thinking about form,
 
 531
 00:35:48,563 --> 00:35:52,191
-materiality, of fonction, of how we interact with a thing
+materiality, of function, of how we interact with a thing
 
 532
 00:35:52,192 --> 00:35:55,611
@@ -2156,7 +2156,7 @@ in a conversation with
 
 541
 00:36:25,892 --> 00:36:31,022
-probably one of the most talented designers I know, product designer,
+probably one of the most talented designers I know, product designers,
 
 542
 00:36:31,814 --> 00:36:34,013
@@ -2212,7 +2212,7 @@ He thinks he’s contributing amazing things to the world
 
 555
 00:37:17,361 --> 00:37:19,237
-but he’s thinking on his scale,
+but he’s thinking on this scale,
 
 556
 00:37:20,196 --> 00:37:22,698
@@ -2272,7 +2272,7 @@ it can show you that things have been different in the past.
 
 570
 00:38:11,247 --> 00:38:14,542
-So by using this understanding what have been different in the past
+So by using this understanding what has been different in the past
 
 571
 00:38:15,042 --> 00:38:19,964
@@ -2288,7 +2288,7 @@ So that’s for history,
 
 574
 00:38:25,032 --> 00:38:27,972
-Anthropology, it shows that in different cultures,
+anthropology, it shows that in different cultures,
 
 575
 00:38:28,431 --> 00:38:30,786
@@ -2372,7 +2372,7 @@ Like if you think about a payment window for credit card on an online service
 
 595
 00:39:50,137 --> 00:39:56,811
-and if i ask you right now to design me a credit card service
+you never really see a different version of that, and if I ask you right now to design me a credit card service
 
 596
 00:39:57,103 --> 00:40:00,398
@@ -2452,7 +2452,7 @@ that’s huge, and you feel that with a little bit of influence
 
 615
 00:41:02,001 --> 00:41:05,212
-you can do a lot to a big outfit so find this interesting.
+you can do a lot to a big outfit so I find this interesting.
 
 616
 00:41:06,213 --> 00:41:09,008
@@ -2496,7 +2496,7 @@ a lot of the maker labs or maker spaces are talking about this stuff.
 
 626
 00:41:39,121 --> 00:41:41,499
-you know I think there’s a number of things designers can do,
+You know I think there’s a number of things designers can do,
 
 627
 00:41:42,666 --> 00:41:45,085
@@ -2544,7 +2544,7 @@ The reason designers don't really see this it’s we don't measure them,
 
 638
 00:42:17,409 --> 00:42:20,454
-it’s kind of like pollution was in the environmental mouvement.
+it’s kind of like pollution was in the environmental movement.
 
 639
 00:42:21,121 --> 00:42:22,706
@@ -2704,7 +2704,7 @@ should integrate
 
 677
 00:44:18,864 --> 00:44:20,366
-should control or 
+should control or
 
 678
 00:44:22,451 --> 00:44:23,410
@@ -2784,7 +2784,7 @@ The main quality, which has been there since the beginning
 
 697
 00:45:18,383 --> 00:45:21,969
-and  stayed throughout all the various steps Sismo has been undergoing is dialogue.
+and stayed throughout all the various steps Sismo has been undergoing is dialogue.
 
 698
 00:45:23,762 --> 00:45:25,215
@@ -2916,11 +2916,11 @@ so I don't want to go to designer conferences to speak about my research
 
 730
 00:47:14,289 --> 00:47:15,165
-because I don't feel it
+because I don't feel…
 
 731
 00:47:16,041 --> 00:47:18,752
-it was right to speak about it at the time I was doing it
+It was right to speak about it at the time I was doing it
 
 732
 00:47:18,919 --> 00:47:20,629
@@ -2948,7 +2948,7 @@ it’s to get rid of vacuous design bullshit.
 
 738
 00:47:39,648 --> 00:47:43,485
-So Philippe Starck talks about the juicy salif lemon squeezer as,
+So Philippe Starck talks about the Juicy Salif lemon squeezer as,
 
 739
 00:47:45,195 --> 00:47:47,618
@@ -3116,7 +3116,7 @@ It’s pretty much like
 
 780
 00:50:01,456 --> 00:50:02,582
-in nature in the end
+in nature in the end.
 
 781
 00:50:09,943 --> 00:50:14,943
