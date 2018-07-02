@@ -1,0 +1,31 @@
+{
+  "name": "ethicsfordesign",
+  "version": "1.0.0",
+  "description": "What is the role of a designer?",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvainjule/ethicsfordesign.git"
+  },
+  "author": "Sylvain Julé",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/sylvainjule/ethicsfordesign/issues"
+  },
+  "homepage": "https://github.com/sylvainjule/ethicsfordesign#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8"
+  }
+}
